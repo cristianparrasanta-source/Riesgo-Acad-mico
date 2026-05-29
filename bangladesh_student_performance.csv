@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,District,School_Type,Study_Hours_per_Week,Attendance,Parent_Education,Family_Income_BDT,Internet_Access,Private_Tuition,Previous_GPA,SSC_Result,HSC_Result
+1,Male,16,Rangpur,Private,11,70,Graduate,49169,Yes,Yes,4.83,4.22,5.0
+2,Female,17,Rajshahi,Private,7,76,Primary,57947,No,No,4.96,4.09,4.77
+3,Male,15,Barisal,Private,27,63,Higher Secondary,57224,Yes,Yes,4.32,4.86,4.62
+4,Male,15,Mymensingh,Private,18,84,Primary,55865,No,No,4.63,3.54,3.75
+5,Male,15,Mymensingh,Public,28,89,Higher Secondary,35553,No,Yes,4.5,4.65,3.46
+6,Female,15,Sylhet,Public,14,68,Higher Secondary,48965,No,Yes,4.4,4.85,4.47
+7,Male,18,Mymensingh,Private,20,80,Primary,48218,Yes,No,3.61,4.17,3.61
+8,Male,15,Rangpur,Public,20,79,Primary,35359,Yes,No,3.11,4.33,3.35
+9,Male,18,Khulna,Private,26,78,Secondary,34816,No,Yes,3.69,4.92,4.57
+10,Female,18,Dhaka,Public,14,78,Secondary,18378,Yes,Yes,4.33,3.82,3.63
+11,Male,15,Rangpur,Private,29,71,Secondary,11881,No,Yes,3.21,4.28,4.83
+12,Male,15,Khulna,Private,17,96,Higher Secondary,49567,Yes,No,3.02,4.21,4.68
+13,Male,16,Barisal,Public,10,76,Primary,57365,No,No,3.28,3.89,4.7
+14,Male,17,Mymensingh,Public,16,96,Graduate,23675,Yes,Yes,4.43,4.73,4.54
+15,Female,15,Barisal,Private,13,98,Higher Secondary,14586,No,Yes,4.95,4.85,4.76
+16,Male,16,Mymensingh,Private,17,87,Graduate,35006,No,No,4.97,4.67,4.61
+17,Female,16,Dhaka,Public,8,94,Primary,51198,No,Yes,3.99,3.79,4.21
+18,Female,17,Chattogram,Public,28,77,Higher Secondary,32831,No,No,4.74,3.63,3.59
+19,Female,18,Dhaka,Private,15,73,Graduate,45113,Yes,No,4.47,4.41,4.78
+20,Male,15,Rajshahi,Public,24,94,Graduate,26459,No,No,4.0,3.59,4.68
+21,Female,17,Rangpur,Private,22,66,Secondary,42443,Yes,No,4.15,4.51,3.95
+22,Male,15,Sylhet,Private,15,72,Secondary,52316,Yes,No,3.27,4.3,3.08
+23,Female,16,Chattogram,Private,29,77,Secondary,40595,No,No,4.88,4.49,4.28
+24,Female,16,Dhaka,Private,25,96,Higher Secondary,15877,Yes,Yes,3.7,4.39,3.1
+25,Female,18,Khulna,Public,8,72,Primary,49553,Yes,No,3.89,4.13,4.85
+26,Female,16,Chattogram,Public,22,95,Primary,58601,Yes,No,4.34,3.8,4.92
+27,Female,16,Rangpur,Public,5,90,Secondary,14922,No,Yes,3.67,3.96,3.38
+28,Female,17,Mymensingh,Public,11,61,Secondary,14686,Yes,No,3.51,4.29,4.35
+29,Female,15,Chattogram,Public,10,75,Secondary,42766,Yes,Yes,4.26,4.48,3.18
+30,Female,15,Mymensingh,Public,19,68,Graduate,24407,No,No,3.05,4.67,4.46
+31,Male,17,Rangpur,Public,22,68,Secondary,42006,No,Yes,4.44,4.65,3.69
+32,Male,18,Dhaka,Private,28,97,Graduate,41422,Yes,Yes,4.03,4.96,4.36
+33,Female,15,Rangpur,Public,15,70,Primary,22205,No,No,4.21,3.93,3.75
+34,Female,16,Chattogram,Public,24,81,Higher Secondary,31054,Yes,No,4.26,3.61,3.29
+35,Female,15,Khulna,Private,28,92,Higher Secondary,33527,Yes,No,4.05,4.02,3.81
+36,Male,16,Barisal,Public,19,95,Higher Secondary,55947,Yes,No,4.17,4.61,3.23
+37,Female,18,Chattogram,Public,20,82,Higher Secondary,28443,No,Yes,4.37,4.16,4.15
+38,Male,17,Rangpur,Private,11,93,Graduate,26524,Yes,Yes,4.51,4.73,3.08
+39,Male,15,Barisal,Public,25,68,Graduate,38202,No,Yes,4.45,4.32,4.05
+40,Male,17,Rangpur,Public,14,83,Secondary,10016,No,No,4.74,4.89,4.77
+41,Male,15,Khulna,Public,16,67,Graduate,56142,Yes,Yes,3.38,4.92,4.68
+42,Male,16,Rangpur,Private,28,66,Secondary,26848,No,No,3.8,3.6,4.77
+43,Female,17,Dhaka,Public,18,95,Secondary,30855,No,No,4.9,4.18,4.84
+44,Female,15,Sylhet,Public,29,77,Higher Secondary,28211,No,Yes,3.79,4.41,3.21
+45,Female,16,Mymensingh,Private,9,62,Graduate,35095,No,No,3.25,3.88,3.26
+46,Female,17,Mymensingh,Public,25,87,Graduate,48724,No,Yes,4.05,4.11,4.11
+47,Female,17,Chattogram,Private,22,65,Secondary,59241,Yes,No,3.22,4.52,4.79
+48,Male,15,Sylhet,Private,9,80,Secondary,47583,No,Yes,3.41,3.84,4.95
+49,Female,15,Rangpur,Public,7,87,Primary,12843,Yes,No,5.0,4.4,3.09
+50,Female,15,Khulna,Private,27,99,Primary,39301,Yes,Yes,4.08,4.55,3.71
+51,Male,16,Chattogram,Private,9,60,Secondary,36460,Yes,Yes,3.57,3.64,3.43
+52,Female,15,Rangpur,Public,28,95,Primary,41918,Yes,No,4.99,4.25,4.51
+53,Male,17,Barisal,Private,21,80,Primary,38747,Yes,No,4.93,3.89,4.28
+54,Female,17,Rajshahi,Private,23,94,Secondary,25972,Yes,Yes,3.88,4.59,3.24
+55,Male,15,Rangpur,Public,23,72,Secondary,38310,No,No,3.52,3.78,3.97
+56,Female,15,Sylhet,Public,29,69,Graduate,32927,No,No,4.68,4.84,4.37
+57,Female,18,Chattogram,Public,25,69,Secondary,11094,No,No,4.43,4.15,4.56
+58,Male,17,Sylhet,Private,16,72,Secondary,48892,Yes,Yes,4.37,3.8,3.04
+59,Male,16,Chattogram,Public,29,96,Higher Secondary,44172,No,Yes,4.79,4.16,4.78
+60,Male,18,Rangpur,Private,13,97,Graduate,33324,No,No,4.38,4.11,4.14
+61,Male,15,Dhaka,Private,5,83,Graduate,30674,No,No,3.57,4.14,4.62
+62,Male,15,Barisal,Private,22,61,Graduate,13982,Yes,Yes,4.39,4.38,4.62
+63,Male,17,Rangpur,Private,25,81,Higher Secondary,55283,No,No,3.61,4.28,3.38
+64,Male,15,Mymensingh,Private,8,76,Secondary,25790,Yes,Yes,4.52,3.72,3.22
+65,Male,16,Sylhet,Private,14,95,Graduate,22205,No,No,4.24,3.6,4.44
+66,Female,17,Rajshahi,Private,29,73,Graduate,34338,Yes,No,3.15,4.59,3.31
+67,Female,15,Rajshahi,Public,11,69,Primary,22748,Yes,No,4.03,4.34,4.7
+68,Male,17,Khulna,Public,26,94,Graduate,31097,Yes,Yes,3.69,4.04,4.45
+69,Female,15,Chattogram,Private,27,84,Secondary,13092,No,Yes,3.66,4.71,4.68
+70,Female,15,Sylhet,Private,5,62,Secondary,32692,No,Yes,4.2,4.08,3.6
+71,Female,15,Khulna,Public,21,97,Primary,33862,Yes,Yes,3.64,4.69,3.63
+72,Female,16,Sylhet,Private,28,76,Graduate,34860,No,No,4.55,3.96,4.34
+73,Male,16,Mymensingh,Public,6,71,Graduate,23971,Yes,No,3.14,3.61,3.06
+74,Female,17,Chattogram,Public,15,83,Graduate,24616,Yes,Yes,4.32,4.9,4.45
+75,Male,15,Rangpur,Public,13,88,Higher Secondary,14933,No,No,4.62,4.09,4.67
+76,Female,15,Rangpur,Private,11,84,Graduate,14926,No,No,4.35,4.69,3.83
+77,Female,16,Rajshahi,Private,26,95,Secondary,35763,No,Yes,3.99,3.92,4.53
+78,Female,15,Rangpur,Public,21,85,Secondary,13969,Yes,No,4.9,4.47,3.35
+79,Male,16,Rangpur,Public,21,97,Higher Secondary,45733,Yes,No,3.6,4.81,3.64
+80,Female,15,Mymensingh,Public,6,60,Higher Secondary,14319,No,Yes,3.04,3.56,4.95
+81,Male,17,Dhaka,Public,10,79,Graduate,51743,Yes,No,3.86,4.75,4.97
+82,Female,15,Rajshahi,Public,18,87,Primary,49876,No,No,3.07,4.36,4.03
+83,Male,15,Khulna,Private,10,75,Higher Secondary,51909,Yes,No,4.91,4.41,4.87
+84,Female,18,Barisal,Public,6,76,Higher Secondary,30323,No,Yes,3.42,4.28,4.05
+85,Male,16,Dhaka,Private,5,99,Graduate,26428,No,Yes,4.58,4.81,3.58
+86,Male,15,Khulna,Public,14,87,Graduate,44578,Yes,No,4.55,3.57,3.53
+87,Female,15,Chattogram,Private,25,71,Higher Secondary,30950,No,No,3.44,3.89,4.86
+88,Male,18,Dhaka,Private,9,86,Primary,53041,No,No,4.24,4.81,3.34
+89,Female,18,Mymensingh,Private,6,89,Higher Secondary,51789,Yes,Yes,3.1,4.63,4.16
+90,Female,16,Khulna,Private,26,93,Graduate,28293,No,Yes,3.97,3.53,4.11
+91,Female,18,Chattogram,Private,20,96,Graduate,16364,Yes,Yes,3.03,4.28,4.48
+92,Female,17,Rajshahi,Private,29,65,Higher Secondary,45349,No,No,4.84,4.29,4.0
+93,Female,18,Barisal,Public,6,66,Primary,10691,Yes,No,4.95,4.1,3.54
+94,Female,17,Chattogram,Private,14,91,Higher Secondary,40062,No,No,3.44,3.95,3.34
+95,Female,16,Rangpur,Public,6,91,Higher Secondary,10931,No,No,3.42,4.52,4.24
+96,Female,16,Sylhet,Private,20,84,Graduate,55896,No,No,4.51,3.81,4.44
+97,Female,16,Chattogram,Private,20,92,Primary,41730,No,Yes,3.51,4.7,4.14
+98,Female,16,Chattogram,Public,23,66,Secondary,24226,Yes,No,4.79,4.7,4.48
+99,Female,16,Barisal,Private,11,71,Primary,23861,Yes,No,4.15,4.12,3.28
+100,Male,17,Sylhet,Public,26,75,Higher Secondary,41301,Yes,No,3.7,3.93,4.76
+101,Male,17,Rangpur,Public,16,75,Higher Secondary,58243,Yes,Yes,4.67,3.93,4.16
+102,Female,16,Khulna,Public,28,95,Higher Secondary,32766,Yes,No,3.99,4.22,3.25
+103,Female,18,Khulna,Public,19,72,Primary,46174,Yes,Yes,4.82,4.58,3.92
+104,Female,15,Chattogram,Private,12,66,Graduate,51107,Yes,Yes,4.86,4.04,4.69
+105,Female,16,Mymensingh,Private,10,95,Higher Secondary,27695,No,Yes,3.33,4.42,4.8
+106,Female,18,Mymensingh,Public,14,68,Higher Secondary,51347,No,Yes,3.0,4.07,3.53
+107,Female,15,Sylhet,Private,7,91,Primary,13121,No,Yes,4.97,3.96,4.42
+108,Female,16,Sylhet,Private,23,70,Secondary,28257,No,No,4.81,3.54,3.2
+109,Female,16,Rangpur,Public,21,67,Secondary,38164,Yes,No,3.11,3.51,3.07
+110,Male,17,Barisal,Private,11,92,Graduate,35491,Yes,Yes,4.67,3.84,4.12
+111,Female,15,Rajshahi,Public,25,82,Graduate,33165,Yes,Yes,3.92,4.11,4.39
+112,Male,15,Khulna,Public,24,84,Higher Secondary,58714,No,Yes,3.52,4.78,4.59
+113,Female,18,Barisal,Private,8,67,Primary,13748,Yes,No,4.76,4.7,3.68
+114,Female,17,Dhaka,Private,18,81,Higher Secondary,43045,No,No,3.39,3.9,3.01
+115,Male,17,Khulna,Private,24,63,Graduate,36553,Yes,Yes,4.89,3.87,3.96
+116,Female,17,Barisal,Public,26,99,Primary,54331,Yes,No,3.41,3.84,3.03
+117,Male,17,Khulna,Public,19,62,Primary,40497,Yes,No,4.23,4.01,3.18
+118,Female,15,Rajshahi,Private,28,88,Graduate,41308,Yes,Yes,3.45,4.25,3.65
+119,Female,15,Dhaka,Private,12,88,Secondary,49560,No,Yes,4.09,4.16,3.87
+120,Male,16,Mymensingh,Private,25,93,Secondary,56686,No,No,4.37,3.83,3.56
+121,Female,16,Mymensingh,Private,19,93,Primary,20374,Yes,No,3.38,3.7,4.16
+122,Male,17,Rajshahi,Public,26,87,Higher Secondary,14675,No,No,4.04,3.52,3.11
+123,Female,17,Rangpur,Private,24,72,Secondary,11170,Yes,Yes,3.94,3.73,3.29
+124,Male,17,Dhaka,Public,18,74,Higher Secondary,51449,Yes,Yes,3.14,4.56,4.39
+125,Male,16,Chattogram,Public,13,82,Secondary,53485,Yes,Yes,4.64,3.87,3.28
+126,Female,18,Barisal,Private,12,85,Secondary,22450,Yes,No,3.67,4.2,4.28
+127,Female,18,Dhaka,Private,21,63,Higher Secondary,20680,No,No,4.15,4.39,3.11
+128,Male,16,Rangpur,Private,6,85,Graduate,20068,Yes,Yes,4.03,4.83,3.81
+129,Female,16,Rangpur,Public,29,99,Secondary,45230,Yes,No,4.03,4.83,3.35
+130,Female,16,Rajshahi,Private,28,68,Secondary,56418,No,Yes,3.21,4.62,3.22
+131,Female,16,Khulna,Private,7,64,Higher Secondary,36206,Yes,No,3.85,3.55,4.13
+132,Male,16,Dhaka,Public,12,91,Graduate,10287,No,Yes,3.9,4.36,4.86
+133,Male,16,Barisal,Private,16,79,Secondary,32337,Yes,No,4.47,4.68,3.11
+134,Male,17,Dhaka,Public,5,70,Secondary,30666,Yes,No,4.68,3.53,3.84
+135,Male,17,Sylhet,Private,14,74,Graduate,11161,Yes,Yes,4.09,4.32,4.42
+136,Male,17,Khulna,Public,24,91,Secondary,59281,Yes,Yes,3.17,4.79,3.93
+137,Male,17,Barisal,Private,7,87,Graduate,45131,Yes,Yes,3.47,4.21,4.61
+138,Male,16,Mymensingh,Private,10,81,Graduate,34535,Yes,Yes,3.33,3.51,3.36
+139,Male,18,Barisal,Public,11,76,Higher Secondary,42528,No,Yes,3.25,3.52,4.92
+140,Male,15,Chattogram,Public,24,85,Primary,48751,Yes,No,3.73,4.12,3.77
+141,Female,16,Rajshahi,Private,27,66,Graduate,26527,No,Yes,3.46,3.73,3.68
+142,Male,15,Chattogram,Public,29,85,Higher Secondary,50975,No,Yes,3.44,4.5,4.75
+143,Female,18,Barisal,Public,22,84,Primary,33853,Yes,Yes,3.11,4.56,4.13
+144,Female,17,Khulna,Public,15,69,Secondary,24758,No,Yes,3.04,3.77,4.03
+145,Female,18,Dhaka,Public,23,78,Primary,10244,Yes,Yes,3.21,4.83,4.45
+146,Male,16,Mymensingh,Private,9,70,Graduate,13178,No,No,3.34,4.16,4.16
+147,Male,17,Dhaka,Private,23,72,Graduate,41831,Yes,Yes,3.86,3.71,3.33
+148,Male,16,Khulna,Public,15,67,Graduate,12176,No,Yes,4.02,4.65,4.35
+149,Male,17,Barisal,Public,28,99,Graduate,47770,No,Yes,3.28,4.68,3.27
+150,Female,15,Rangpur,Public,16,63,Graduate,43654,Yes,No,3.85,4.46,4.61
+151,Male,15,Dhaka,Public,14,90,Higher Secondary,36627,No,No,3.68,4.78,4.98
+152,Male,15,Rangpur,Private,12,87,Graduate,56489,Yes,Yes,3.37,4.61,3.75
+153,Male,18,Dhaka,Private,28,70,Higher Secondary,54910,Yes,Yes,3.01,4.82,3.89
+154,Male,16,Dhaka,Public,13,60,Secondary,34881,Yes,No,3.93,4.15,3.09
+155,Male,18,Mymensingh,Public,8,97,Graduate,45422,Yes,No,4.37,4.62,3.03
+156,Female,15,Rajshahi,Public,9,83,Graduate,21984,Yes,No,3.45,5.0,4.84
+157,Male,16,Rajshahi,Private,25,90,Primary,33776,No,Yes,3.26,4.59,3.26
+158,Female,15,Sylhet,Public,12,85,Secondary,27755,No,Yes,4.77,3.67,3.89
+159,Male,18,Chattogram,Private,27,64,Graduate,17135,No,No,3.55,4.28,4.63
+160,Female,18,Khulna,Public,13,79,Graduate,10320,Yes,Yes,3.45,4.38,4.78
+161,Male,18,Khulna,Private,19,70,Secondary,47422,No,No,4.71,3.76,4.04
+162,Male,15,Khulna,Public,19,92,Higher Secondary,38635,No,No,4.63,4.94,4.13
+163,Female,16,Sylhet,Private,20,97,Graduate,31684,No,No,3.9,3.76,4.34
+164,Female,16,Rajshahi,Public,18,86,Primary,33238,No,Yes,3.98,3.77,4.92
+165,Female,15,Barisal,Public,12,93,Graduate,31889,No,No,3.44,4.87,4.21
+166,Male,16,Rangpur,Public,22,74,Primary,40313,Yes,No,3.16,4.2,4.12
+167,Female,15,Mymensingh,Private,14,91,Primary,42535,Yes,Yes,4.15,3.59,3.03
+168,Male,16,Rangpur,Public,24,80,Graduate,58899,No,No,3.2,4.4,3.16
+169,Male,17,Barisal,Private,10,64,Graduate,20770,Yes,Yes,3.9,4.4,4.15
+170,Female,17,Mymensingh,Private,16,65,Primary,49321,Yes,No,4.88,3.6,4.87
+171,Female,18,Sylhet,Public,6,97,Secondary,30426,No,Yes,4.91,4.96,4.73
+172,Male,17,Barisal,Public,11,81,Secondary,54327,No,No,3.48,4.32,4.97
+173,Male,17,Khulna,Public,20,77,Graduate,51777,Yes,No,4.25,4.34,4.06
+174,Female,17,Chattogram,Private,7,73,Higher Secondary,56250,No,No,3.95,4.28,4.58
+175,Female,15,Dhaka,Public,17,69,Secondary,17498,Yes,No,4.75,4.42,4.68
+176,Female,17,Rangpur,Private,7,72,Graduate,49404,Yes,No,3.54,3.9,4.3
+177,Male,17,Rajshahi,Private,22,90,Secondary,50130,No,Yes,3.01,3.93,3.68
+178,Male,18,Rajshahi,Public,15,89,Higher Secondary,26395,Yes,Yes,3.33,4.27,3.94
+179,Male,17,Sylhet,Public,12,62,Graduate,59346,Yes,No,3.7,4.71,4.72
+180,Male,17,Mymensingh,Public,10,89,Higher Secondary,12537,Yes,No,3.63,3.57,3.6
+181,Male,16,Rajshahi,Public,5,65,Graduate,29226,No,No,4.58,4.41,4.85
+182,Male,18,Khulna,Public,5,88,Higher Secondary,25216,No,Yes,4.36,4.71,3.46
+183,Female,18,Rangpur,Public,27,67,Secondary,28613,No,Yes,3.6,3.74,4.5
+184,Male,18,Barisal,Private,12,92,Secondary,13009,No,No,3.92,3.52,4.26
+185,Male,18,Khulna,Private,9,76,Higher Secondary,34368,Yes,Yes,3.19,3.97,4.5
+186,Male,18,Sylhet,Private,20,70,Higher Secondary,39327,No,No,4.8,4.38,3.87
+187,Female,18,Khulna,Public,15,72,Higher Secondary,24209,No,No,4.87,3.71,4.87
+188,Male,15,Barisal,Private,9,70,Graduate,58443,No,No,4.96,4.14,4.26
+189,Male,17,Chattogram,Private,8,90,Secondary,25029,No,Yes,4.74,4.33,3.58
+190,Female,18,Sylhet,Private,10,87,Graduate,12077,Yes,No,3.35,4.4,4.28
+191,Male,17,Chattogram,Private,18,65,Secondary,23907,Yes,No,3.09,3.91,3.57
+192,Male,17,Dhaka,Private,26,75,Primary,46635,Yes,No,4.16,4.1,3.59
+193,Male,15,Chattogram,Public,23,63,Graduate,58920,No,Yes,4.83,4.67,3.8
+194,Male,18,Dhaka,Public,13,94,Secondary,14873,No,Yes,3.35,4.91,4.7
+195,Male,16,Dhaka,Private,16,85,Secondary,18635,Yes,Yes,3.01,4.79,4.0
+196,Female,15,Chattogram,Private,15,71,Graduate,43065,No,No,4.61,4.35,4.36
+197,Female,16,Sylhet,Private,18,70,Graduate,55863,No,Yes,3.15,4.12,3.78
+198,Female,17,Mymensingh,Public,27,96,Secondary,51804,Yes,No,3.83,4.0,3.53
+199,Male,17,Barisal,Public,20,84,Graduate,43783,Yes,Yes,4.36,3.69,4.91
+200,Male,15,Khulna,Private,5,77,Higher Secondary,44152,No,No,3.47,3.66,4.21
+201,Male,15,Khulna,Public,17,78,Graduate,51513,No,Yes,3.17,4.53,4.87
+202,Female,16,Barisal,Public,27,82,Graduate,39092,No,No,4.54,3.89,3.41
+203,Male,18,Rangpur,Private,25,97,Graduate,27653,Yes,Yes,4.26,3.88,3.29
+204,Male,16,Rangpur,Public,25,77,Secondary,42463,Yes,Yes,4.98,5.0,4.71
+205,Female,15,Dhaka,Public,17,85,Higher Secondary,44028,Yes,Yes,3.69,3.78,4.36
+206,Male,16,Dhaka,Private,6,65,Primary,50469,Yes,No,3.12,3.72,3.37
+207,Female,15,Sylhet,Public,8,63,Primary,30947,No,Yes,4.47,3.65,3.54
+208,Female,16,Rajshahi,Public,10,88,Higher Secondary,39978,Yes,Yes,4.04,4.37,4.6
+209,Female,15,Chattogram,Private,27,93,Higher Secondary,32056,Yes,Yes,3.43,4.44,3.91
+210,Male,15,Dhaka,Public,9,76,Higher Secondary,39007,No,Yes,4.56,4.05,4.34
+211,Male,15,Khulna,Public,29,75,Secondary,53169,No,No,3.41,4.3,3.64
+212,Male,18,Sylhet,Private,7,61,Primary,58287,No,Yes,3.52,4.68,3.76
+213,Male,16,Chattogram,Private,5,93,Higher Secondary,54632,Yes,No,3.19,4.73,4.98
+214,Male,16,Sylhet,Private,8,67,Secondary,58449,No,No,3.8,4.94,3.5
+215,Male,16,Chattogram,Public,29,72,Primary,15543,No,No,3.84,4.74,4.01
+216,Male,15,Chattogram,Private,24,67,Graduate,31067,Yes,No,4.03,4.35,4.69
+217,Female,16,Barisal,Public,6,89,Secondary,55256,Yes,Yes,4.42,3.77,3.48
+218,Male,16,Dhaka,Private,9,91,Primary,35097,No,No,4.81,3.65,3.83
+219,Female,15,Mymensingh,Public,7,95,Secondary,52847,Yes,No,3.28,3.58,4.23
+220,Male,17,Sylhet,Private,13,89,Primary,53512,No,No,3.11,4.5,3.96
+221,Male,15,Mymensingh,Private,24,60,Primary,13809,No,No,3.04,4.71,3.92
+222,Male,16,Sylhet,Private,10,98,Graduate,32191,Yes,Yes,3.29,4.26,3.73
+223,Female,15,Barisal,Private,22,76,Secondary,31267,No,Yes,4.32,3.58,4.17
+224,Female,17,Khulna,Public,10,79,Higher Secondary,17206,Yes,No,4.45,4.3,4.25
+225,Female,15,Mymensingh,Private,23,83,Graduate,31057,Yes,No,4.57,4.9,4.31
+226,Female,16,Khulna,Private,16,81,Graduate,38992,Yes,No,3.49,4.4,3.14
+227,Male,17,Rangpur,Public,29,88,Primary,56514,No,Yes,3.61,4.71,4.26
+228,Female,18,Dhaka,Private,15,81,Higher Secondary,25995,Yes,Yes,3.97,4.7,4.91
+229,Male,16,Dhaka,Public,6,68,Secondary,58803,Yes,Yes,3.13,4.9,4.08
+230,Male,17,Rajshahi,Private,19,96,Higher Secondary,54439,No,Yes,4.22,4.66,4.43
+231,Female,17,Barisal,Private,16,69,Higher Secondary,23210,No,Yes,4.97,4.62,4.11
+232,Female,18,Khulna,Private,16,95,Higher Secondary,27793,No,No,3.72,3.85,4.71
+233,Female,15,Chattogram,Public,13,96,Higher Secondary,36270,No,Yes,4.51,3.59,4.86
+234,Female,15,Sylhet,Private,25,87,Higher Secondary,15197,Yes,Yes,4.0,4.28,3.37
+235,Female,16,Dhaka,Private,28,87,Primary,58321,Yes,No,3.26,3.69,3.87
+236,Female,18,Mymensingh,Private,6,80,Primary,17452,Yes,Yes,4.16,4.94,3.78
+237,Female,15,Sylhet,Public,26,83,Graduate,51486,No,Yes,3.6,3.93,3.81
+238,Female,18,Sylhet,Public,7,99,Primary,24859,No,Yes,3.07,4.78,3.25
+239,Male,15,Rajshahi,Private,16,61,Graduate,37236,Yes,No,4.27,4.08,4.63
+240,Female,17,Khulna,Public,20,67,Graduate,41899,No,Yes,4.72,3.98,3.07
+241,Female,15,Dhaka,Private,25,86,Secondary,42083,No,No,3.69,4.9,4.06
+242,Male,18,Sylhet,Private,28,81,Higher Secondary,12172,Yes,No,3.78,4.04,4.32
+243,Female,17,Dhaka,Private,5,96,Primary,55926,Yes,Yes,4.78,4.09,3.41
+244,Male,17,Chattogram,Private,25,86,Secondary,26663,No,Yes,4.63,3.66,4.81
+245,Male,17,Rajshahi,Private,7,88,Primary,37540,No,Yes,4.43,4.51,4.68
+246,Female,18,Chattogram,Private,24,62,Graduate,29053,No,Yes,3.5,3.93,3.94
+247,Male,16,Dhaka,Private,6,72,Primary,21085,Yes,No,4.82,4.38,3.82
+248,Male,16,Rangpur,Public,13,69,Higher Secondary,40564,Yes,Yes,3.31,4.39,3.47
+249,Male,16,Mymensingh,Public,23,95,Graduate,34209,Yes,No,4.25,4.58,4.46
+250,Male,18,Dhaka,Public,19,68,Graduate,13981,Yes,No,3.06,4.62,3.26
+251,Female,17,Khulna,Public,22,86,Secondary,31153,Yes,No,4.29,4.27,4.36
+252,Male,16,Sylhet,Public,15,93,Higher Secondary,15247,No,No,3.55,4.0,4.68
+253,Female,18,Sylhet,Public,29,60,Graduate,20553,No,No,3.9,4.76,3.46
+254,Male,16,Chattogram,Public,27,91,Higher Secondary,30811,No,Yes,3.69,3.96,4.73
+255,Male,15,Mymensingh,Private,20,84,Primary,39845,Yes,No,3.35,4.26,3.07
+256,Male,16,Rajshahi,Private,26,88,Higher Secondary,16135,Yes,No,4.24,4.1,4.83
+257,Male,16,Rangpur,Private,21,66,Graduate,15573,Yes,Yes,4.76,4.78,3.24
+258,Female,17,Barisal,Private,9,62,Secondary,23731,No,Yes,4.92,4.15,4.29
+259,Female,18,Mymensingh,Public,16,79,Graduate,17189,Yes,No,3.38,4.08,3.5
+260,Male,17,Sylhet,Public,15,79,Higher Secondary,24541,Yes,No,4.43,4.53,4.67
+261,Male,17,Khulna,Private,19,89,Higher Secondary,53646,No,Yes,4.33,4.4,4.02
+262,Female,17,Mymensingh,Private,7,94,Graduate,21087,Yes,No,3.69,3.66,3.27
+263,Male,17,Chattogram,Public,5,94,Higher Secondary,56435,No,Yes,3.04,4.26,4.14
+264,Male,17,Chattogram,Private,24,98,Primary,12776,Yes,Yes,4.38,4.6,3.82
+265,Male,16,Barisal,Private,20,86,Graduate,52079,Yes,No,4.89,4.99,4.32
+266,Female,17,Khulna,Private,6,85,Secondary,37564,No,Yes,4.26,4.44,4.76
+267,Female,17,Rajshahi,Private,6,73,Graduate,38835,No,No,3.87,4.06,3.82
+268,Female,18,Mymensingh,Public,7,76,Primary,17697,No,No,4.05,3.84,3.58
+269,Male,15,Khulna,Private,12,77,Primary,24629,No,No,3.4,4.81,3.03
+270,Male,16,Rajshahi,Private,28,88,Primary,18386,No,Yes,4.5,4.72,4.15
+271,Female,16,Khulna,Public,19,79,Primary,27046,No,No,4.49,3.85,3.8
+272,Female,16,Khulna,Public,11,86,Primary,18044,Yes,Yes,3.29,3.8,3.75
+273,Female,17,Dhaka,Private,10,77,Secondary,19615,Yes,No,4.76,4.57,3.37
+274,Female,17,Chattogram,Public,13,63,Higher Secondary,57802,No,No,3.54,3.97,3.86
+275,Male,17,Mymensingh,Private,24,60,Primary,15060,Yes,Yes,4.96,3.96,4.97
+276,Female,18,Khulna,Private,5,60,Primary,20900,No,No,3.77,3.73,3.6
+277,Male,15,Mymensingh,Public,12,85,Graduate,15581,Yes,No,3.36,3.9,4.2
+278,Female,17,Barisal,Private,27,79,Secondary,44782,No,Yes,3.7,4.14,4.55
+279,Male,15,Khulna,Private,27,82,Secondary,30173,Yes,Yes,3.88,4.6,4.5
+280,Female,18,Sylhet,Private,7,69,Higher Secondary,22997,Yes,Yes,3.14,4.0,3.66
+281,Female,16,Chattogram,Private,8,70,Secondary,53403,Yes,No,4.16,3.99,4.22
+282,Female,17,Sylhet,Public,29,64,Graduate,56416,Yes,Yes,4.2,3.93,4.74
+283,Female,15,Mymensingh,Public,19,60,Graduate,17148,Yes,Yes,4.48,4.22,3.03
+284,Male,15,Mymensingh,Private,10,76,Higher Secondary,28748,No,No,3.06,3.77,3.87
+285,Female,17,Chattogram,Public,19,81,Graduate,24022,No,Yes,4.08,4.23,3.45
+286,Male,16,Mymensingh,Private,25,93,Primary,30013,No,No,3.11,4.56,3.78
+287,Male,16,Sylhet,Private,7,88,Primary,48687,Yes,No,4.4,3.54,3.83
+288,Male,16,Khulna,Private,29,63,Graduate,25886,No,Yes,3.11,3.51,4.49
+289,Male,18,Khulna,Private,25,64,Higher Secondary,35256,Yes,No,4.82,3.61,3.19
+290,Female,15,Dhaka,Private,25,70,Secondary,40005,Yes,Yes,4.4,4.3,4.03
+291,Male,15,Barisal,Public,18,80,Higher Secondary,16638,Yes,Yes,4.01,4.78,4.13
+292,Male,15,Mymensingh,Private,24,94,Secondary,47419,No,Yes,3.88,3.51,3.99
+293,Male,18,Sylhet,Public,18,71,Graduate,43377,Yes,Yes,3.26,4.9,4.46
+294,Female,15,Mymensingh,Public,8,85,Graduate,50708,No,No,3.58,3.66,3.77
+295,Female,18,Mymensingh,Private,16,78,Primary,53116,No,No,4.74,4.76,4.89
+296,Female,16,Rajshahi,Private,21,66,Secondary,46634,Yes,Yes,4.81,4.22,3.96
+297,Female,17,Dhaka,Private,11,66,Higher Secondary,26755,Yes,Yes,3.0,4.49,4.14
+298,Male,15,Sylhet,Private,13,85,Graduate,33382,No,No,4.19,4.27,4.65
+299,Male,15,Sylhet,Private,7,99,Higher Secondary,59767,No,Yes,4.44,4.22,3.55
+300,Female,16,Mymensingh,Public,17,64,Primary,32394,No,No,4.24,4.75,3.15
+301,Male,17,Dhaka,Private,19,80,Secondary,12253,No,Yes,3.16,4.63,4.42
+302,Male,18,Khulna,Private,22,73,Secondary,47710,No,No,3.44,4.23,3.97
+303,Male,17,Sylhet,Public,23,63,Graduate,55098,No,No,3.5,3.67,4.79
+304,Female,16,Khulna,Public,5,82,Secondary,10864,Yes,No,4.66,3.67,4.97
+305,Female,16,Dhaka,Private,10,79,Graduate,44036,No,Yes,3.93,4.7,3.8
+306,Male,17,Khulna,Public,27,74,Primary,50222,No,Yes,3.97,4.29,3.83
+307,Female,18,Chattogram,Private,6,88,Secondary,23666,No,Yes,4.87,4.22,3.82
+308,Female,18,Rajshahi,Public,28,67,Graduate,30955,No,Yes,4.27,4.52,3.65
+309,Female,15,Rangpur,Public,18,78,Higher Secondary,55138,Yes,Yes,4.8,4.79,4.56
+310,Female,18,Sylhet,Private,10,98,Graduate,47997,Yes,No,3.91,4.44,4.52
+311,Female,17,Barisal,Public,18,87,Secondary,26309,No,No,3.3,4.64,3.96
+312,Male,16,Rajshahi,Public,8,86,Primary,14054,No,No,4.86,4.65,3.09
+313,Female,15,Rangpur,Public,25,63,Secondary,10935,No,No,3.92,4.03,3.62
+314,Male,15,Khulna,Public,12,74,Secondary,54940,Yes,No,3.36,3.91,3.58
+315,Male,16,Sylhet,Public,7,94,Graduate,32778,Yes,No,3.6,4.7,4.62
+316,Female,18,Khulna,Public,23,96,Higher Secondary,53298,Yes,No,3.1,4.07,3.18
+317,Male,16,Chattogram,Private,18,60,Secondary,58328,Yes,Yes,3.94,4.86,4.61
+318,Male,18,Dhaka,Private,24,62,Higher Secondary,58924,Yes,No,4.71,3.6,4.34
+319,Male,16,Sylhet,Public,21,83,Graduate,26709,Yes,Yes,4.87,3.59,4.46
+320,Female,17,Rangpur,Private,29,86,Higher Secondary,19726,No,No,4.87,4.89,3.86
+321,Female,18,Rangpur,Private,12,99,Graduate,50542,Yes,No,3.25,4.47,4.36
+322,Male,17,Chattogram,Private,28,95,Primary,30245,Yes,Yes,3.76,4.07,4.22
+323,Female,15,Chattogram,Public,18,93,Higher Secondary,44753,No,No,3.06,4.63,4.54
+324,Female,16,Mymensingh,Private,10,88,Higher Secondary,24252,Yes,Yes,4.71,4.51,3.89
+325,Female,15,Sylhet,Public,27,83,Primary,31316,No,No,3.72,4.3,3.95
+326,Female,15,Khulna,Private,26,83,Higher Secondary,47371,Yes,Yes,4.26,3.65,4.29
+327,Male,15,Barisal,Public,20,63,Primary,29162,No,No,4.43,4.72,3.22
+328,Male,15,Rangpur,Public,29,62,Secondary,25960,No,Yes,3.86,4.8,3.87
+329,Female,16,Rangpur,Private,23,93,Graduate,40791,No,Yes,3.61,3.76,4.94
+330,Female,15,Chattogram,Private,18,82,Primary,52230,No,No,4.92,4.78,3.08
+331,Male,16,Rajshahi,Public,23,82,Higher Secondary,35216,No,No,4.93,4.82,3.63
+332,Male,16,Chattogram,Private,7,64,Primary,42467,Yes,Yes,3.58,4.32,3.63
+333,Female,17,Barisal,Private,14,90,Higher Secondary,56934,Yes,No,3.96,4.48,4.27
+334,Male,18,Khulna,Private,23,65,Secondary,17754,No,Yes,4.95,4.07,3.21
+335,Female,18,Khulna,Public,13,96,Primary,57014,No,No,3.01,3.92,4.26
+336,Female,16,Rajshahi,Public,24,69,Secondary,14078,No,Yes,3.83,4.58,3.19
+337,Male,17,Rangpur,Private,17,99,Graduate,22853,Yes,No,3.2,4.79,3.19
+338,Male,16,Chattogram,Private,11,66,Higher Secondary,14042,No,Yes,4.02,4.48,4.46
+339,Female,16,Mymensingh,Private,18,98,Higher Secondary,59052,No,No,3.05,4.27,3.65
+340,Female,16,Khulna,Public,13,97,Secondary,24389,No,Yes,3.81,3.74,4.95
+341,Male,17,Barisal,Public,27,80,Graduate,40425,No,Yes,3.44,3.58,3.07
+342,Female,18,Sylhet,Private,29,79,Primary,12575,Yes,No,4.07,4.17,3.89
+343,Male,17,Dhaka,Private,23,62,Primary,49522,No,No,4.99,3.57,3.23
+344,Female,15,Dhaka,Private,19,81,Higher Secondary,38179,No,Yes,4.6,4.35,3.7
+345,Male,17,Dhaka,Private,24,63,Secondary,44754,Yes,Yes,4.69,4.07,5.0
+346,Male,17,Mymensingh,Private,18,87,Secondary,28624,No,Yes,4.27,4.64,4.78
+347,Male,17,Rangpur,Private,28,71,Primary,30350,No,Yes,3.08,3.96,3.1
+348,Female,17,Chattogram,Public,10,97,Graduate,36681,Yes,No,3.41,4.39,4.13
+349,Female,18,Rajshahi,Private,25,95,Graduate,33988,Yes,Yes,4.85,4.31,4.3
+350,Male,15,Mymensingh,Public,8,64,Primary,25470,Yes,Yes,3.73,3.51,3.42
+351,Female,18,Mymensingh,Private,12,72,Primary,34704,No,Yes,3.21,3.61,3.29
+352,Male,18,Khulna,Private,21,82,Secondary,48736,No,No,4.4,3.94,4.81
+353,Male,17,Sylhet,Public,13,89,Graduate,39377,Yes,Yes,3.6,4.82,4.94
+354,Female,16,Mymensingh,Public,5,96,Primary,38572,Yes,No,3.54,3.72,4.98
+355,Female,16,Barisal,Public,28,84,Primary,17493,Yes,No,5.0,4.57,4.58
+356,Male,18,Sylhet,Public,24,86,Higher Secondary,14103,No,No,4.72,4.96,4.33
+357,Female,18,Barisal,Private,29,73,Primary,44844,No,No,3.82,4.69,3.69
+358,Female,17,Rangpur,Public,18,95,Primary,12994,Yes,No,4.96,3.86,3.34
+359,Male,18,Chattogram,Private,15,98,Graduate,13744,No,No,4.3,4.86,3.16
+360,Male,17,Dhaka,Public,25,75,Secondary,57234,Yes,No,4.48,3.64,4.39
+361,Female,16,Mymensingh,Private,7,81,Graduate,57291,No,Yes,3.06,4.2,4.57
+362,Male,16,Chattogram,Private,13,80,Secondary,37332,No,Yes,3.24,4.83,4.65
+363,Male,15,Rangpur,Private,18,80,Higher Secondary,15594,No,No,4.27,4.46,4.83
+364,Female,16,Rajshahi,Private,13,67,Primary,50299,No,Yes,4.8,4.12,4.76
+365,Male,18,Rajshahi,Private,8,75,Higher Secondary,17371,Yes,Yes,4.25,3.94,5.0
+366,Male,16,Rangpur,Private,8,90,Secondary,57315,No,No,3.27,4.06,3.49
+367,Female,17,Barisal,Public,12,69,Graduate,28028,No,Yes,3.23,4.26,4.53
+368,Female,16,Khulna,Private,6,91,Graduate,45912,Yes,No,4.69,3.98,4.17
+369,Male,15,Khulna,Public,13,93,Higher Secondary,23990,No,Yes,3.28,4.95,3.52
+370,Male,16,Barisal,Public,18,68,Secondary,56851,Yes,No,4.04,4.9,4.96
+371,Female,17,Rajshahi,Private,26,76,Higher Secondary,26626,Yes,No,3.07,4.81,4.8
+372,Female,17,Rajshahi,Public,13,70,Higher Secondary,30469,No,Yes,3.16,4.13,3.26
+373,Female,18,Mymensingh,Private,28,91,Primary,50722,No,Yes,4.34,4.54,3.05
+374,Female,16,Rajshahi,Public,27,69,Higher Secondary,50037,Yes,No,4.38,4.85,4.38
+375,Male,17,Chattogram,Private,20,81,Primary,17130,Yes,No,3.68,4.78,4.21
+376,Female,15,Rajshahi,Public,21,76,Primary,16828,Yes,No,3.43,4.12,4.87
+377,Female,18,Sylhet,Private,20,63,Graduate,51612,No,Yes,4.63,3.67,3.47
+378,Male,15,Mymensingh,Private,16,84,Primary,56988,Yes,Yes,3.43,3.61,3.17
+379,Female,16,Dhaka,Private,7,80,Primary,49099,Yes,Yes,4.08,4.37,3.52
+380,Male,16,Rajshahi,Private,15,96,Graduate,56165,Yes,Yes,4.94,4.46,3.04
+381,Female,16,Barisal,Public,18,97,Higher Secondary,27883,No,No,3.3,4.77,3.07
+382,Female,18,Dhaka,Private,22,60,Secondary,53059,Yes,No,4.88,3.94,4.83
+383,Female,17,Chattogram,Public,25,84,Secondary,28542,No,No,3.37,3.75,3.7
+384,Male,18,Barisal,Public,25,95,Secondary,52932,No,No,4.13,4.07,3.82
+385,Male,15,Dhaka,Public,9,76,Higher Secondary,20450,Yes,Yes,3.75,4.03,3.04
+386,Female,18,Barisal,Private,20,83,Primary,30423,No,No,4.93,3.7,3.54
+387,Male,15,Chattogram,Public,24,61,Secondary,12035,Yes,No,3.55,4.51,4.61
+388,Male,18,Mymensingh,Public,9,99,Higher Secondary,54231,No,Yes,3.8,4.26,4.23
+389,Male,17,Sylhet,Public,7,74,Primary,50745,No,Yes,4.97,4.58,4.51
+390,Male,15,Chattogram,Private,16,91,Graduate,27241,Yes,No,4.07,4.03,3.89
+391,Male,16,Chattogram,Private,5,98,Secondary,33154,Yes,Yes,4.01,3.99,3.62
+392,Male,16,Barisal,Public,25,65,Primary,35625,Yes,No,3.52,4.21,3.97
+393,Female,18,Mymensingh,Private,13,60,Secondary,54950,No,Yes,4.4,4.82,3.65
+394,Female,16,Rangpur,Private,13,82,Secondary,43066,No,Yes,3.03,3.56,4.68
+395,Male,15,Khulna,Public,8,98,Secondary,43691,Yes,No,3.1,4.71,3.6
+396,Female,16,Rajshahi,Public,7,76,Primary,23331,Yes,Yes,4.2,4.05,4.32
+397,Female,17,Rajshahi,Private,21,93,Higher Secondary,30690,No,No,3.68,4.78,3.27
+398,Female,17,Sylhet,Public,6,88,Primary,29183,No,Yes,4.91,4.7,4.37
+399,Female,18,Sylhet,Private,28,68,Secondary,49346,No,Yes,4.81,4.02,4.83
+400,Male,15,Rajshahi,Private,5,72,Primary,14875,Yes,Yes,4.43,4.54,4.22
+401,Female,17,Khulna,Private,12,65,Graduate,22254,No,Yes,4.64,3.74,4.12
+402,Female,17,Rajshahi,Private,17,65,Higher Secondary,38621,Yes,Yes,4.33,4.84,4.92
+403,Male,15,Rangpur,Private,27,79,Primary,20905,No,No,3.25,4.11,4.25
+404,Male,16,Khulna,Private,19,62,Graduate,56121,No,Yes,4.53,4.18,3.52
+405,Female,16,Sylhet,Public,12,76,Higher Secondary,25882,Yes,No,3.42,4.56,3.58
+406,Female,18,Dhaka,Public,16,71,Graduate,29041,Yes,Yes,3.65,4.73,4.41
+407,Female,16,Barisal,Private,26,60,Higher Secondary,39098,Yes,No,4.64,3.85,4.47
+408,Female,15,Rangpur,Private,16,76,Primary,52431,No,Yes,4.07,4.49,3.61
+409,Female,17,Rangpur,Private,18,62,Graduate,43709,No,No,4.72,4.09,3.69
+410,Female,16,Mymensingh,Public,19,85,Secondary,44675,No,No,3.43,4.05,4.98
+411,Male,18,Sylhet,Private,19,74,Graduate,14837,Yes,Yes,4.22,4.54,3.2
+412,Female,16,Sylhet,Public,13,95,Higher Secondary,56448,No,Yes,3.17,4.08,3.81
+413,Female,15,Chattogram,Private,23,91,Primary,34489,Yes,Yes,4.29,4.02,3.12
+414,Male,18,Rangpur,Private,24,91,Higher Secondary,27627,Yes,No,4.53,4.75,4.64
+415,Male,16,Chattogram,Public,26,63,Graduate,15696,Yes,No,4.17,3.65,3.18
+416,Male,18,Chattogram,Public,12,77,Graduate,58994,No,Yes,3.53,4.51,4.35
+417,Male,15,Barisal,Private,25,78,Secondary,23543,No,Yes,3.06,3.87,3.11
+418,Female,17,Chattogram,Private,23,94,Primary,22615,Yes,No,3.24,3.52,4.35
+419,Female,15,Khulna,Private,10,99,Primary,11466,No,No,4.24,3.75,4.69
+420,Female,15,Rajshahi,Public,24,73,Graduate,40771,Yes,Yes,4.87,4.41,3.8
+421,Female,15,Dhaka,Public,29,92,Primary,28350,Yes,No,3.41,4.56,4.04
+422,Female,15,Sylhet,Public,23,73,Secondary,10375,No,Yes,4.47,3.53,3.8
+423,Female,17,Khulna,Public,8,93,Higher Secondary,43030,Yes,Yes,4.73,3.55,3.6
+424,Male,17,Dhaka,Public,27,63,Primary,30746,Yes,Yes,4.04,4.85,4.61
+425,Female,18,Rangpur,Public,11,83,Graduate,32886,No,No,4.34,3.61,3.54
+426,Male,16,Rangpur,Private,8,88,Higher Secondary,54348,Yes,No,4.63,4.84,4.45
+427,Male,17,Rangpur,Private,26,78,Higher Secondary,52904,Yes,No,3.52,3.84,3.41
+428,Female,17,Khulna,Public,16,65,Secondary,42651,Yes,No,3.59,4.61,3.5
+429,Male,16,Khulna,Private,17,92,Graduate,17833,Yes,Yes,3.0,3.96,3.67
+430,Female,17,Sylhet,Private,7,99,Primary,11893,Yes,No,4.93,4.79,4.18
+431,Male,15,Rajshahi,Public,26,78,Graduate,40573,Yes,Yes,4.84,4.55,3.91
+432,Female,15,Mymensingh,Private,16,60,Higher Secondary,41371,Yes,Yes,4.53,4.1,4.49
+433,Male,16,Chattogram,Public,6,64,Graduate,50874,No,Yes,3.16,3.61,3.43
+434,Female,18,Rangpur,Public,28,86,Primary,21826,No,No,3.9,4.6,3.02
+435,Female,18,Barisal,Private,6,75,Primary,44420,Yes,Yes,3.2,4.43,4.55
+436,Female,16,Rajshahi,Public,27,65,Secondary,31924,Yes,Yes,3.03,3.5,4.64
+437,Female,16,Barisal,Public,13,99,Primary,43367,No,No,4.23,3.51,3.12
+438,Female,15,Sylhet,Public,5,72,Primary,31199,No,Yes,4.92,4.71,4.22
+439,Male,18,Sylhet,Public,12,94,Graduate,35868,No,No,4.81,3.89,3.76
+440,Male,17,Sylhet,Public,27,78,Graduate,18792,No,No,4.39,4.45,4.59
+441,Male,15,Dhaka,Public,10,71,Higher Secondary,30597,No,No,3.19,4.18,4.75
+442,Female,16,Barisal,Public,10,75,Secondary,46405,Yes,Yes,3.55,4.8,4.7
+443,Male,18,Rajshahi,Public,26,69,Graduate,42696,No,No,3.64,4.88,4.55
+444,Female,17,Mymensingh,Private,29,84,Primary,53123,No,No,4.53,5.0,3.54
+445,Female,17,Rajshahi,Private,22,79,Higher Secondary,25989,No,No,4.6,3.73,4.62
+446,Male,15,Khulna,Private,21,90,Graduate,38931,Yes,No,3.77,4.79,4.07
+447,Male,18,Khulna,Public,16,63,Secondary,19290,Yes,Yes,3.84,3.9,3.11
+448,Female,18,Rangpur,Public,10,82,Secondary,48367,Yes,No,3.09,4.39,3.91
+449,Male,16,Mymensingh,Private,12,61,Higher Secondary,24342,Yes,Yes,3.58,4.26,4.88
+450,Female,18,Khulna,Private,23,81,Higher Secondary,34941,Yes,No,3.9,3.53,4.78
+451,Female,18,Sylhet,Private,14,96,Higher Secondary,23945,Yes,Yes,3.23,4.9,3.2
+452,Female,15,Rajshahi,Public,5,67,Higher Secondary,20762,No,No,3.91,3.62,4.49
+453,Female,18,Barisal,Private,29,66,Higher Secondary,40133,Yes,Yes,4.71,4.53,4.61
+454,Female,17,Sylhet,Private,17,73,Primary,57080,Yes,No,4.16,4.68,3.54
+455,Male,15,Dhaka,Public,21,62,Primary,50150,No,Yes,3.16,4.69,3.94
+456,Male,15,Khulna,Private,7,75,Graduate,37052,Yes,Yes,3.38,3.7,4.42
+457,Female,16,Sylhet,Public,12,78,Secondary,51750,No,Yes,3.95,4.17,3.88
+458,Female,18,Sylhet,Public,18,77,Primary,29953,No,No,3.72,4.74,3.23
+459,Male,16,Dhaka,Public,7,75,Primary,50475,Yes,Yes,3.72,3.95,4.41
+460,Male,17,Chattogram,Private,20,67,Primary,27130,No,Yes,4.06,4.2,4.82
+461,Female,15,Rajshahi,Private,17,92,Graduate,41086,No,Yes,4.17,3.91,4.3
+462,Male,15,Barisal,Public,24,71,Higher Secondary,14633,No,Yes,4.59,4.2,4.55
+463,Female,15,Rangpur,Private,28,70,Graduate,27304,No,No,3.68,4.83,3.72
+464,Male,17,Chattogram,Private,21,64,Secondary,52037,Yes,Yes,4.61,4.18,3.37
+465,Female,17,Khulna,Private,17,86,Secondary,42284,No,Yes,3.68,4.33,4.29
+466,Male,16,Sylhet,Private,10,71,Secondary,56546,Yes,Yes,3.11,4.11,3.66
+467,Female,16,Mymensingh,Public,21,76,Secondary,17008,No,No,4.11,4.19,4.72
+468,Male,16,Dhaka,Private,18,65,Primary,58291,No,Yes,4.18,3.52,3.25
+469,Male,18,Dhaka,Public,21,92,Primary,37405,No,Yes,4.87,3.93,3.87
+470,Female,15,Mymensingh,Public,12,64,Graduate,46386,Yes,Yes,4.45,4.15,3.79
+471,Male,15,Rajshahi,Private,15,87,Higher Secondary,35373,Yes,Yes,4.84,4.45,4.88
+472,Female,16,Chattogram,Public,24,73,Secondary,30827,Yes,No,4.82,4.18,3.31
+473,Male,15,Rangpur,Private,5,64,Graduate,43040,No,Yes,4.21,4.01,3.02
+474,Female,16,Rajshahi,Private,11,92,Primary,23007,No,Yes,4.06,4.08,3.48
+475,Male,18,Mymensingh,Public,25,78,Primary,28157,No,No,4.11,3.86,4.64
+476,Female,18,Sylhet,Public,25,81,Higher Secondary,42157,No,No,4.96,4.89,3.42
+477,Male,17,Mymensingh,Public,21,64,Higher Secondary,45315,Yes,No,4.55,4.28,3.48
+478,Female,18,Rajshahi,Public,14,61,Higher Secondary,45932,No,Yes,3.21,3.52,3.26
+479,Male,16,Barisal,Private,15,89,Graduate,31164,Yes,No,4.56,3.53,4.43
+480,Female,18,Dhaka,Private,26,98,Primary,24414,No,Yes,3.34,4.96,3.14
+481,Female,17,Dhaka,Private,13,63,Primary,24327,Yes,No,3.89,3.83,3.66
+482,Female,15,Khulna,Public,13,92,Higher Secondary,58344,Yes,Yes,3.42,4.71,3.56
+483,Male,16,Khulna,Public,28,72,Secondary,10946,No,No,4.38,3.59,4.11
+484,Female,15,Mymensingh,Public,9,79,Higher Secondary,24693,No,Yes,4.75,4.88,4.46
+485,Male,17,Rangpur,Private,21,66,Graduate,37241,Yes,No,3.58,4.81,4.07
+486,Female,17,Sylhet,Public,13,74,Higher Secondary,59658,No,Yes,3.16,4.36,4.86
+487,Male,17,Barisal,Private,21,82,Higher Secondary,40254,No,Yes,3.6,3.51,4.9
+488,Female,15,Chattogram,Public,28,73,Graduate,25540,Yes,Yes,4.34,3.89,3.72
+489,Male,15,Rajshahi,Private,25,82,Higher Secondary,16719,Yes,Yes,3.66,4.11,4.56
+490,Male,15,Rangpur,Private,23,78,Primary,51203,Yes,Yes,3.56,4.19,4.48
+491,Female,15,Sylhet,Public,11,88,Secondary,35081,Yes,Yes,3.37,3.95,4.79
+492,Male,17,Khulna,Public,27,79,Higher Secondary,21350,No,Yes,4.0,3.55,3.9
+493,Male,17,Mymensingh,Private,13,88,Graduate,46358,Yes,Yes,3.55,4.39,4.06
+494,Female,16,Rajshahi,Private,11,83,Secondary,42021,Yes,No,4.46,4.29,3.83
+495,Male,16,Khulna,Public,17,77,Graduate,52832,Yes,Yes,3.15,3.92,4.7
+496,Male,15,Mymensingh,Public,15,69,Secondary,38369,No,Yes,4.33,3.56,3.46
+497,Male,18,Rajshahi,Private,18,67,Secondary,41728,Yes,No,3.48,4.99,3.48
+498,Female,18,Chattogram,Public,23,85,Higher Secondary,27576,No,Yes,3.98,4.22,3.75
+499,Male,17,Sylhet,Private,15,88,Primary,39001,Yes,No,3.57,4.63,3.46
+500,Female,17,Rajshahi,Private,17,69,Higher Secondary,27848,Yes,Yes,4.45,4.18,4.12
+501,Male,17,Barisal,Public,18,76,Graduate,10390,No,No,4.89,3.56,3.27
+502,Male,16,Rangpur,Public,17,61,Graduate,31999,Yes,No,4.83,3.96,3.64
+503,Male,16,Dhaka,Public,5,65,Secondary,55436,Yes,Yes,4.17,3.98,4.83
+504,Female,17,Barisal,Public,12,64,Secondary,21569,No,No,3.93,4.76,3.82
+505,Male,17,Barisal,Public,16,87,Primary,23029,Yes,Yes,4.64,4.48,4.5
+506,Male,17,Rangpur,Private,23,64,Higher Secondary,32490,Yes,Yes,4.37,3.91,3.23
+507,Female,18,Dhaka,Private,16,77,Graduate,55875,Yes,Yes,3.37,4.95,3.5
+508,Male,16,Barisal,Public,12,85,Secondary,45328,Yes,Yes,4.64,3.98,4.61
+509,Female,18,Rajshahi,Public,12,79,Primary,15867,No,No,3.86,5.0,4.53
+510,Female,18,Rajshahi,Public,25,86,Graduate,25284,Yes,Yes,3.38,4.99,3.77
+511,Male,17,Rajshahi,Private,17,71,Secondary,43979,No,No,3.56,3.79,4.91
+512,Female,17,Dhaka,Public,16,66,Graduate,19121,Yes,No,3.54,3.97,4.82
+513,Male,15,Barisal,Public,20,62,Primary,11539,No,Yes,4.04,4.23,4.92
+514,Female,15,Mymensingh,Private,5,69,Primary,35488,Yes,Yes,3.47,4.5,3.86
+515,Female,18,Dhaka,Private,17,93,Graduate,27027,No,Yes,3.25,4.29,3.39
+516,Male,16,Rajshahi,Public,11,84,Higher Secondary,18693,Yes,Yes,3.25,4.95,4.25
+517,Female,17,Rangpur,Public,9,94,Graduate,18921,No,No,4.17,4.59,4.37
+518,Female,17,Barisal,Public,12,75,Secondary,20310,No,Yes,4.47,3.82,3.25
+519,Female,18,Barisal,Private,29,61,Higher Secondary,55512,Yes,No,3.64,3.66,4.57
+520,Female,15,Khulna,Public,18,83,Secondary,40908,No,Yes,3.07,4.53,3.04
+521,Female,16,Khulna,Public,27,69,Graduate,14386,Yes,Yes,3.25,3.74,3.97
+522,Male,15,Chattogram,Public,17,97,Higher Secondary,42263,Yes,Yes,4.83,4.68,3.66
+523,Female,15,Mymensingh,Private,19,81,Secondary,38412,Yes,Yes,3.99,3.97,4.48
+524,Male,15,Mymensingh,Private,27,85,Graduate,27303,Yes,No,3.91,3.99,3.63
+525,Female,15,Sylhet,Public,21,98,Graduate,22242,Yes,No,3.08,3.52,4.65
+526,Male,17,Mymensingh,Public,19,86,Higher Secondary,57025,No,Yes,4.46,4.55,4.19
+527,Male,17,Khulna,Private,24,88,Graduate,18947,Yes,No,4.06,3.67,4.59
+528,Female,15,Dhaka,Private,22,97,Primary,56714,Yes,No,3.4,4.66,4.98
+529,Female,16,Mymensingh,Private,22,79,Secondary,15930,Yes,Yes,3.22,4.24,4.36
+530,Female,18,Khulna,Private,6,86,Secondary,48170,Yes,Yes,3.77,4.68,4.97
+531,Male,16,Chattogram,Private,8,79,Graduate,58785,Yes,No,4.67,4.38,3.06
+532,Female,16,Barisal,Private,5,78,Graduate,10507,Yes,No,4.73,3.62,3.68
+533,Male,16,Mymensingh,Private,8,79,Primary,11436,No,No,4.21,4.65,3.22
+534,Male,15,Chattogram,Private,22,94,Higher Secondary,37151,No,No,4.46,3.6,3.52
+535,Male,17,Barisal,Private,9,61,Graduate,21618,Yes,Yes,3.23,4.22,4.68
+536,Female,16,Rangpur,Public,23,89,Graduate,18750,No,Yes,4.18,3.76,3.06
+537,Female,15,Rangpur,Public,19,93,Graduate,26122,Yes,No,4.33,4.63,4.04
+538,Male,16,Barisal,Public,12,81,Graduate,17354,Yes,Yes,3.4,4.87,4.13
+539,Male,16,Mymensingh,Private,24,62,Secondary,54062,Yes,No,4.76,4.33,4.12
+540,Female,15,Sylhet,Public,21,65,Graduate,40979,Yes,No,3.39,4.29,3.95
+541,Male,17,Khulna,Private,5,74,Secondary,30900,Yes,Yes,3.63,4.65,4.58
+542,Female,17,Dhaka,Private,16,86,Graduate,23840,No,No,4.24,3.51,3.27
+543,Male,18,Dhaka,Public,23,69,Higher Secondary,47167,No,No,4.28,4.88,3.62
+544,Female,15,Rajshahi,Private,19,68,Primary,15037,No,Yes,4.4,3.8,4.23
+545,Male,18,Barisal,Public,13,92,Higher Secondary,38633,No,Yes,3.22,4.98,4.38
+546,Female,18,Dhaka,Public,11,91,Graduate,34495,Yes,No,4.7,4.6,3.81
+547,Male,18,Mymensingh,Public,6,65,Graduate,25848,No,No,4.07,4.66,4.75
+548,Female,17,Sylhet,Private,13,95,Graduate,46483,Yes,Yes,3.94,4.48,3.83
+549,Female,15,Barisal,Public,14,61,Higher Secondary,57645,No,No,4.96,4.21,3.81
+550,Male,18,Sylhet,Private,6,88,Graduate,17837,No,No,4.48,4.36,3.07
+551,Male,15,Mymensingh,Public,23,63,Higher Secondary,44069,No,Yes,3.24,3.57,4.1
+552,Female,15,Dhaka,Public,15,60,Secondary,17370,No,Yes,4.51,4.44,4.42
+553,Male,17,Dhaka,Public,17,78,Primary,16411,Yes,Yes,3.19,4.44,3.23
+554,Female,18,Rajshahi,Private,14,85,Primary,49133,No,Yes,3.05,4.84,3.61
+555,Male,18,Dhaka,Private,18,84,Higher Secondary,40499,No,Yes,3.81,4.26,4.56
+556,Female,15,Barisal,Private,22,69,Secondary,40225,Yes,Yes,4.99,3.62,3.73
+557,Female,16,Mymensingh,Public,23,74,Higher Secondary,58217,Yes,No,3.35,3.96,3.48
+558,Female,17,Rangpur,Public,26,81,Secondary,10692,No,No,4.35,4.48,4.34
+559,Female,17,Mymensingh,Private,13,80,Graduate,38926,Yes,Yes,3.35,3.86,3.39
+560,Female,17,Barisal,Private,29,81,Secondary,44246,Yes,Yes,4.45,3.92,4.79
+561,Female,17,Barisal,Private,11,95,Secondary,49164,Yes,No,4.01,4.73,3.21
+562,Male,18,Rajshahi,Private,7,93,Secondary,18448,No,No,4.36,4.38,4.41
+563,Male,18,Rajshahi,Private,24,89,Primary,53390,Yes,No,3.41,4.26,4.0
+564,Male,16,Dhaka,Private,10,84,Secondary,59593,No,Yes,4.49,3.98,4.74
+565,Female,17,Chattogram,Public,25,87,Graduate,20073,No,Yes,4.99,4.6,3.25
+566,Female,17,Mymensingh,Private,6,60,Graduate,45414,No,No,4.33,3.93,4.36
+567,Female,15,Mymensingh,Public,10,63,Graduate,15209,No,Yes,3.99,4.61,4.14
+568,Female,18,Chattogram,Public,7,66,Secondary,16533,Yes,Yes,4.85,3.61,3.96
+569,Male,17,Rajshahi,Private,20,68,Higher Secondary,31061,No,Yes,3.03,4.8,3.98
+570,Male,16,Dhaka,Private,12,95,Higher Secondary,17211,Yes,No,4.46,4.25,4.44
+571,Female,16,Chattogram,Public,6,78,Graduate,19927,No,No,4.78,4.16,4.88
+572,Male,18,Dhaka,Private,21,60,Primary,21927,Yes,Yes,3.12,4.42,3.18
+573,Male,16,Dhaka,Private,13,69,Higher Secondary,34594,No,Yes,3.9,4.44,3.04
+574,Female,16,Dhaka,Public,16,95,Secondary,19316,Yes,Yes,3.41,3.7,4.61
+575,Male,18,Khulna,Public,7,68,Higher Secondary,22177,No,Yes,4.13,4.63,3.22
+576,Female,17,Barisal,Public,15,91,Graduate,20846,No,Yes,4.3,3.91,4.97
+577,Male,17,Dhaka,Private,5,91,Primary,17933,Yes,No,3.61,4.86,4.24
+578,Female,16,Khulna,Public,27,65,Higher Secondary,48244,No,Yes,3.92,4.73,4.3
+579,Female,16,Rajshahi,Private,17,97,Higher Secondary,56621,No,Yes,3.56,4.02,3.4
+580,Female,17,Chattogram,Public,19,76,Graduate,50696,No,Yes,3.74,4.71,3.48
+581,Female,18,Barisal,Public,9,69,Primary,12080,Yes,No,3.32,4.03,4.32
+582,Male,16,Rangpur,Public,25,86,Primary,16089,No,No,4.77,3.65,4.82
+583,Female,15,Chattogram,Private,21,94,Graduate,36123,No,Yes,3.02,4.94,4.96
+584,Female,18,Barisal,Private,29,80,Secondary,17797,Yes,No,4.76,4.48,3.4
+585,Female,16,Rangpur,Public,27,84,Higher Secondary,18346,Yes,No,4.14,4.18,3.27
+586,Male,16,Chattogram,Public,28,87,Secondary,29878,Yes,No,3.66,4.1,3.11
+587,Female,15,Barisal,Public,29,74,Higher Secondary,43672,Yes,No,4.45,3.99,4.74
+588,Male,15,Chattogram,Private,10,63,Higher Secondary,27653,Yes,No,4.02,4.97,3.59
+589,Female,17,Chattogram,Public,25,88,Secondary,59556,No,No,4.0,3.7,3.0
+590,Male,18,Rangpur,Private,26,68,Graduate,52742,No,Yes,3.22,3.97,3.45
+591,Male,18,Chattogram,Public,15,86,Graduate,36140,No,No,3.78,4.23,3.68
+592,Female,17,Chattogram,Public,22,85,Higher Secondary,11184,Yes,No,3.48,4.22,4.98
+593,Male,18,Rangpur,Public,8,78,Graduate,44493,No,Yes,3.03,4.21,4.05
+594,Female,18,Rajshahi,Public,7,87,Higher Secondary,54148,Yes,Yes,3.72,3.76,3.41
+595,Female,18,Dhaka,Public,17,76,Graduate,34846,Yes,Yes,3.18,3.72,3.67
+596,Female,18,Mymensingh,Public,27,79,Higher Secondary,55825,No,Yes,3.51,3.88,3.66
+597,Male,18,Sylhet,Private,13,99,Graduate,32195,Yes,No,3.19,4.87,3.04
+598,Male,15,Khulna,Public,25,98,Primary,15606,Yes,No,3.2,3.67,3.27
+599,Female,18,Sylhet,Private,10,82,Secondary,13956,No,No,3.4,4.64,4.39
+600,Female,15,Sylhet,Public,16,91,Primary,26555,Yes,No,5.0,4.64,3.24
+601,Male,18,Barisal,Public,6,92,Secondary,34849,Yes,Yes,3.0,4.71,3.46
+602,Female,17,Dhaka,Private,7,64,Secondary,28690,No,No,4.28,4.83,3.7
+603,Female,16,Barisal,Public,7,93,Higher Secondary,58849,Yes,No,3.28,3.89,4.52
+604,Female,15,Dhaka,Private,16,99,Secondary,36347,Yes,Yes,4.84,3.84,4.16
+605,Male,18,Rangpur,Private,19,70,Primary,43189,No,No,3.19,4.2,4.38
+606,Male,17,Rangpur,Public,13,62,Primary,48308,No,No,4.91,3.9,4.13
+607,Male,16,Mymensingh,Private,27,92,Graduate,35785,No,No,4.22,4.6,4.37
+608,Female,15,Dhaka,Private,12,70,Primary,59056,No,No,3.0,4.45,3.01
+609,Female,16,Chattogram,Public,15,75,Graduate,42698,Yes,Yes,4.79,4.81,4.86
+610,Female,17,Rajshahi,Private,20,77,Secondary,25966,Yes,Yes,4.04,3.62,3.22
+611,Male,15,Mymensingh,Public,29,89,Primary,41097,No,Yes,3.53,4.87,3.81
+612,Female,16,Mymensingh,Public,26,69,Secondary,25882,Yes,Yes,4.53,3.94,4.54
+613,Female,18,Chattogram,Public,8,77,Primary,14675,Yes,Yes,4.85,4.24,3.87
+614,Female,15,Rajshahi,Public,5,97,Primary,51850,No,No,3.97,4.16,4.89
+615,Female,16,Barisal,Private,28,78,Graduate,23009,No,No,3.63,4.64,3.94
+616,Male,17,Rajshahi,Public,11,95,Secondary,37843,Yes,Yes,4.58,4.13,4.75
+617,Male,17,Barisal,Public,6,72,Primary,39793,No,Yes,4.36,4.92,4.62
+618,Female,15,Rangpur,Private,28,62,Higher Secondary,49516,No,Yes,4.78,4.85,4.96
+619,Male,16,Sylhet,Public,9,69,Secondary,48871,No,No,4.39,4.81,4.85
+620,Male,15,Rangpur,Public,11,97,Secondary,27857,Yes,Yes,3.49,3.61,4.8
+621,Female,15,Rangpur,Private,8,60,Secondary,29627,No,No,4.86,4.78,4.46
+622,Female,16,Sylhet,Private,9,86,Graduate,28565,Yes,No,3.21,4.67,3.73
+623,Male,16,Rajshahi,Private,28,67,Higher Secondary,36025,Yes,No,3.54,3.66,3.21
+624,Female,18,Mymensingh,Private,5,76,Secondary,37832,Yes,No,4.04,3.66,4.38
+625,Male,16,Rajshahi,Private,5,68,Primary,54116,No,Yes,4.13,3.65,4.96
+626,Female,17,Barisal,Private,19,65,Primary,19782,No,No,3.03,3.52,4.45
+627,Male,15,Chattogram,Private,24,84,Graduate,48650,No,No,4.56,4.32,4.86
+628,Female,15,Barisal,Public,23,98,Primary,32366,No,Yes,3.72,4.96,4.61
+629,Male,17,Chattogram,Private,14,87,Secondary,38557,No,No,3.81,4.16,3.33
+630,Male,16,Rangpur,Private,22,92,Primary,15798,Yes,No,4.62,4.31,3.5
+631,Male,17,Sylhet,Private,7,96,Secondary,19627,Yes,No,3.76,4.95,3.68
+632,Female,17,Rangpur,Public,15,68,Primary,51183,Yes,Yes,3.09,3.88,3.34
+633,Male,18,Dhaka,Public,19,77,Higher Secondary,22466,No,No,3.35,4.79,4.16
+634,Male,17,Rajshahi,Private,15,80,Graduate,52614,Yes,No,4.91,4.32,4.95
+635,Female,15,Chattogram,Private,21,61,Graduate,22720,Yes,Yes,3.14,4.35,4.52
+636,Female,17,Barisal,Private,21,97,Higher Secondary,51913,No,Yes,3.71,4.01,3.85
+637,Male,15,Sylhet,Public,10,99,Higher Secondary,47292,No,No,4.01,4.34,3.01
+638,Male,15,Chattogram,Public,9,95,Graduate,16559,Yes,No,3.99,3.61,3.63
+639,Female,15,Barisal,Private,12,96,Higher Secondary,50388,Yes,Yes,3.01,4.65,4.05
+640,Female,16,Rajshahi,Public,6,74,Secondary,29158,No,No,4.0,3.93,3.65
+641,Female,18,Rangpur,Private,20,87,Primary,40916,No,Yes,3.77,4.83,3.22
+642,Female,15,Rajshahi,Public,24,77,Graduate,32057,No,No,4.94,4.05,3.89
+643,Female,15,Khulna,Public,28,93,Higher Secondary,45892,No,Yes,3.32,3.71,3.51
+644,Male,16,Dhaka,Private,16,81,Secondary,51439,Yes,No,3.71,4.54,4.82
+645,Female,15,Khulna,Private,10,70,Graduate,21706,Yes,Yes,3.84,3.75,3.2
+646,Male,17,Sylhet,Private,5,72,Higher Secondary,22070,No,Yes,3.78,4.63,3.1
+647,Male,17,Chattogram,Private,8,63,Graduate,50902,Yes,Yes,4.33,4.95,3.01
+648,Male,18,Sylhet,Public,21,81,Higher Secondary,10924,Yes,Yes,3.43,4.67,3.66
+649,Female,15,Rangpur,Public,17,66,Graduate,36478,No,Yes,3.44,3.53,4.32
+650,Male,16,Barisal,Public,22,83,Secondary,15506,Yes,No,4.46,4.4,4.46
+651,Male,17,Rajshahi,Private,9,63,Secondary,56418,Yes,No,4.0,4.54,3.91
+652,Female,16,Khulna,Public,28,87,Primary,45163,Yes,Yes,3.83,4.74,4.37
+653,Male,16,Mymensingh,Private,28,74,Graduate,34604,No,No,3.34,3.58,3.72
+654,Male,17,Khulna,Public,7,60,Primary,25310,No,No,3.38,4.22,4.34
+655,Female,16,Rangpur,Private,15,62,Graduate,18226,Yes,No,3.02,4.3,3.08
+656,Male,17,Khulna,Private,17,73,Higher Secondary,21781,No,No,3.18,3.75,3.78
+657,Male,16,Rangpur,Public,8,97,Higher Secondary,15515,No,No,4.11,3.98,4.58
+658,Male,17,Mymensingh,Private,18,60,Primary,46133,No,No,4.78,4.16,4.61
+659,Female,15,Sylhet,Private,26,97,Graduate,26972,Yes,Yes,3.57,4.75,4.43
+660,Female,18,Rajshahi,Public,15,97,Primary,42092,Yes,No,3.66,4.89,3.41
+661,Female,17,Chattogram,Private,14,80,Secondary,21410,No,No,3.23,4.44,3.49
+662,Male,17,Barisal,Private,23,88,Primary,29522,Yes,No,3.78,4.09,4.99
+663,Male,18,Chattogram,Private,22,64,Primary,19095,Yes,Yes,3.07,3.88,3.21
+664,Female,17,Sylhet,Public,10,69,Higher Secondary,33047,Yes,No,4.84,4.97,3.36
+665,Male,17,Barisal,Public,19,87,Primary,30470,Yes,No,4.35,4.97,3.26
+666,Male,16,Khulna,Private,25,80,Graduate,53129,Yes,No,4.98,4.89,3.66
+667,Female,18,Mymensingh,Public,14,66,Higher Secondary,18531,No,Yes,4.77,4.68,3.42
+668,Female,15,Mymensingh,Private,9,62,Primary,47038,Yes,No,3.95,3.99,4.0
+669,Male,17,Dhaka,Private,9,79,Secondary,32403,Yes,Yes,4.04,4.73,3.95
+670,Male,18,Sylhet,Private,14,78,Primary,52674,Yes,No,3.38,4.11,4.8
+671,Male,16,Sylhet,Private,9,94,Primary,39122,No,Yes,3.92,3.99,3.07
+672,Female,15,Rajshahi,Private,7,63,Primary,26940,No,Yes,4.81,4.62,3.64
+673,Female,18,Chattogram,Public,27,64,Higher Secondary,39831,No,Yes,3.1,3.62,4.19
+674,Female,15,Sylhet,Private,10,60,Graduate,21279,Yes,No,4.73,3.57,4.21
+675,Female,15,Sylhet,Public,8,63,Secondary,48220,No,Yes,3.68,4.17,3.96
+676,Male,15,Khulna,Public,22,71,Primary,16477,No,Yes,4.8,4.17,4.63
+677,Female,17,Khulna,Private,13,86,Graduate,27400,No,Yes,4.88,4.84,3.13
+678,Female,17,Barisal,Private,21,82,Graduate,16470,No,Yes,4.34,3.69,4.63
+679,Female,16,Rangpur,Public,17,84,Higher Secondary,12062,Yes,No,4.33,3.68,3.99
+680,Female,16,Rangpur,Public,19,80,Secondary,51798,No,No,3.91,3.72,3.27
+681,Female,18,Dhaka,Public,24,83,Higher Secondary,29880,No,No,4.67,3.54,4.77
+682,Male,16,Rangpur,Private,21,84,Graduate,44581,Yes,No,4.92,3.61,4.3
+683,Male,15,Rajshahi,Public,17,91,Graduate,54439,Yes,Yes,4.55,4.49,3.33
+684,Female,15,Dhaka,Private,20,91,Graduate,24308,No,No,4.24,4.15,3.07
+685,Male,17,Barisal,Private,26,64,Higher Secondary,36027,Yes,Yes,4.21,4.65,3.28
+686,Female,15,Khulna,Private,8,95,Secondary,40720,No,No,4.7,4.99,4.22
+687,Female,18,Rangpur,Public,9,98,Primary,45081,Yes,No,4.08,4.49,3.36
+688,Male,15,Chattogram,Private,9,75,Higher Secondary,19706,Yes,No,4.61,3.58,3.45
+689,Male,15,Khulna,Private,13,92,Graduate,19837,No,Yes,4.02,3.66,3.05
+690,Female,18,Mymensingh,Private,21,80,Higher Secondary,48599,Yes,No,3.12,4.82,4.45
+691,Female,16,Rajshahi,Private,17,68,Graduate,46824,No,No,3.77,4.29,4.62
+692,Female,16,Khulna,Private,6,65,Primary,43073,Yes,No,3.89,4.74,4.59
+693,Male,18,Rajshahi,Public,17,94,Primary,57115,No,Yes,3.28,4.78,3.26
+694,Female,17,Rajshahi,Private,26,98,Secondary,42088,Yes,No,3.2,4.89,4.81
+695,Female,15,Rajshahi,Private,25,81,Graduate,38112,Yes,No,4.07,4.92,4.34
+696,Female,18,Barisal,Public,27,64,Secondary,36299,Yes,Yes,3.17,4.33,4.8
+697,Male,15,Rajshahi,Private,23,82,Secondary,44457,Yes,Yes,3.61,4.01,3.89
+698,Female,17,Rajshahi,Public,7,76,Primary,40063,Yes,No,4.49,4.94,3.87
+699,Female,15,Mymensingh,Private,14,71,Higher Secondary,13917,No,No,4.93,4.32,4.57
+700,Male,18,Chattogram,Public,6,82,Higher Secondary,12936,Yes,No,4.44,3.6,3.19
+701,Female,15,Dhaka,Public,17,75,Secondary,46630,No,Yes,4.99,4.46,4.04
+702,Female,16,Sylhet,Private,23,62,Primary,24506,No,Yes,4.4,4.38,4.67
+703,Male,17,Mymensingh,Private,21,89,Graduate,38805,No,Yes,3.59,4.84,4.66
+704,Female,17,Dhaka,Private,25,81,Higher Secondary,24318,Yes,No,4.34,4.48,4.91
+705,Male,17,Rajshahi,Public,18,68,Secondary,58068,No,Yes,4.4,4.02,4.4
+706,Male,18,Chattogram,Public,16,88,Higher Secondary,36026,Yes,No,3.74,4.95,3.42
+707,Female,17,Khulna,Public,25,96,Higher Secondary,37672,No,Yes,3.04,4.7,3.04
+708,Female,16,Chattogram,Private,16,82,Graduate,48417,No,Yes,4.41,4.45,3.96
+709,Female,18,Mymensingh,Public,15,72,Primary,37281,No,Yes,3.04,3.94,4.03
+710,Female,16,Rajshahi,Public,11,91,Graduate,58442,No,No,4.26,4.06,3.48
+711,Male,15,Chattogram,Private,8,82,Primary,38091,No,No,3.33,4.5,3.25
+712,Female,15,Rangpur,Public,23,76,Higher Secondary,48328,Yes,No,4.13,3.61,4.17
+713,Male,15,Chattogram,Public,5,99,Secondary,58219,No,No,4.01,3.89,4.53
+714,Female,15,Rajshahi,Private,28,80,Graduate,28610,No,Yes,3.03,4.57,4.99
+715,Female,16,Barisal,Public,7,61,Primary,11079,Yes,No,3.73,4.22,4.52
+716,Female,18,Rangpur,Private,17,96,Higher Secondary,39850,Yes,Yes,4.2,4.1,4.59
+717,Male,18,Chattogram,Private,19,65,Primary,56751,Yes,No,4.7,3.73,4.23
+718,Female,17,Sylhet,Private,6,77,Primary,30590,No,No,4.78,4.16,4.97
+719,Female,16,Sylhet,Private,15,89,Primary,40951,No,Yes,3.97,4.66,4.28
+720,Female,15,Chattogram,Private,8,81,Higher Secondary,25327,No,Yes,4.46,3.9,4.72
+721,Female,16,Barisal,Public,23,92,Secondary,22755,No,No,3.63,3.51,4.89
+722,Male,17,Khulna,Public,21,89,Secondary,17235,No,No,3.68,4.5,4.86
+723,Female,17,Rajshahi,Private,7,76,Secondary,27197,No,Yes,3.39,4.96,3.76
+724,Male,16,Sylhet,Private,22,91,Primary,31473,Yes,Yes,4.12,4.41,3.16
+725,Male,16,Khulna,Public,12,73,Higher Secondary,12031,Yes,Yes,3.63,3.68,3.34
+726,Male,16,Chattogram,Private,26,69,Primary,51282,No,Yes,3.17,3.98,3.12
+727,Male,18,Mymensingh,Private,29,95,Secondary,51863,No,Yes,4.37,4.8,3.21
+728,Male,15,Khulna,Private,28,93,Secondary,24287,No,No,4.42,3.85,3.37
+729,Male,16,Rangpur,Public,23,68,Higher Secondary,48679,No,No,3.72,4.41,3.68
+730,Female,16,Dhaka,Public,9,87,Primary,54463,No,No,3.15,4.1,4.09
+731,Male,16,Sylhet,Private,11,70,Graduate,42230,Yes,No,3.85,3.81,4.42
+732,Male,17,Chattogram,Private,25,73,Graduate,29037,Yes,Yes,3.88,4.72,3.42
+733,Male,17,Mymensingh,Public,12,98,Secondary,37052,No,Yes,4.34,4.61,4.35
+734,Female,18,Rajshahi,Public,9,78,Higher Secondary,13340,Yes,Yes,3.63,4.49,4.41
+735,Female,15,Mymensingh,Private,21,74,Primary,50644,No,No,4.37,3.85,4.12
+736,Male,18,Barisal,Private,9,87,Primary,58664,No,Yes,4.74,3.65,4.81
+737,Female,15,Rangpur,Public,8,83,Secondary,55203,No,Yes,3.47,4.36,3.22
+738,Male,17,Chattogram,Public,26,67,Secondary,11141,Yes,No,4.96,4.33,3.35
+739,Male,17,Rajshahi,Public,23,68,Primary,35425,Yes,No,3.77,3.78,3.86
+740,Female,17,Barisal,Private,25,92,Primary,29281,No,No,3.53,3.58,3.25
+741,Male,18,Barisal,Public,6,92,Secondary,52049,Yes,Yes,3.84,3.62,4.13
+742,Female,16,Chattogram,Private,15,78,Primary,30425,Yes,Yes,3.19,4.99,3.8
+743,Female,16,Rangpur,Public,26,62,Graduate,44806,No,No,3.25,4.68,3.57
+744,Male,17,Khulna,Public,17,69,Secondary,42113,Yes,No,3.83,4.88,3.34
+745,Male,16,Khulna,Public,19,99,Primary,14270,Yes,Yes,4.52,3.79,3.67
+746,Female,16,Barisal,Public,16,60,Secondary,52814,No,No,4.8,4.94,4.22
+747,Male,18,Khulna,Private,26,88,Higher Secondary,14683,No,Yes,4.33,3.71,4.15
+748,Male,15,Dhaka,Private,25,93,Secondary,59646,Yes,No,3.21,4.26,3.33
+749,Male,17,Barisal,Public,26,72,Secondary,49884,No,No,4.34,4.74,3.25
+750,Female,17,Barisal,Private,15,60,Higher Secondary,39809,Yes,No,4.27,4.02,3.05
+751,Female,18,Rajshahi,Public,11,93,Graduate,44552,No,Yes,4.61,4.14,3.02
+752,Male,18,Khulna,Public,9,88,Primary,13786,No,Yes,4.65,3.69,4.76
+753,Female,16,Rangpur,Public,21,72,Higher Secondary,31650,No,No,4.74,3.68,3.09
+754,Female,17,Barisal,Public,28,88,Secondary,38706,No,Yes,3.83,4.43,4.46
+755,Female,15,Mymensingh,Private,24,98,Primary,19190,Yes,No,4.4,4.51,4.74
+756,Female,18,Rangpur,Public,13,83,Higher Secondary,48196,No,No,3.54,4.67,3.2
+757,Female,15,Dhaka,Public,18,85,Primary,49449,No,Yes,5.0,4.34,3.87
+758,Male,15,Rajshahi,Private,16,76,Primary,49661,No,Yes,3.35,4.47,4.92
+759,Male,17,Chattogram,Public,10,66,Higher Secondary,39709,Yes,Yes,3.02,3.52,4.67
+760,Male,17,Rangpur,Public,21,72,Primary,55429,Yes,Yes,3.3,3.74,3.98
+761,Female,18,Barisal,Public,23,64,Graduate,24892,No,No,4.55,4.98,4.53
+762,Female,17,Dhaka,Private,23,85,Higher Secondary,19643,No,Yes,3.89,3.61,4.67
+763,Male,17,Sylhet,Public,20,62,Graduate,19943,No,Yes,3.9,4.52,3.7
+764,Female,17,Dhaka,Private,16,66,Secondary,53240,No,No,4.91,3.76,4.78
+765,Male,15,Dhaka,Public,16,98,Primary,55760,No,No,4.84,4.58,3.94
+766,Male,18,Rajshahi,Public,24,60,Secondary,31042,No,No,3.62,4.56,4.06
+767,Male,16,Chattogram,Private,10,76,Secondary,53894,Yes,No,3.42,3.85,5.0
+768,Female,15,Sylhet,Public,27,84,Primary,16869,No,Yes,4.7,3.9,4.69
+769,Female,17,Khulna,Public,8,62,Higher Secondary,50437,No,Yes,4.81,4.48,3.72
+770,Male,15,Khulna,Private,10,74,Primary,54306,No,No,4.08,4.09,3.02
+771,Male,17,Rangpur,Private,15,88,Secondary,52833,No,No,4.26,3.79,4.25
+772,Male,17,Dhaka,Private,5,91,Secondary,30918,No,Yes,3.51,4.6,4.41
+773,Male,15,Mymensingh,Private,28,85,Higher Secondary,38379,No,Yes,4.6,3.73,4.3
+774,Female,18,Rajshahi,Private,27,75,Primary,52939,Yes,Yes,4.26,4.78,4.94
+775,Female,17,Mymensingh,Public,19,84,Secondary,35274,Yes,Yes,4.01,4.27,4.73
+776,Male,18,Rajshahi,Private,15,87,Graduate,27696,Yes,Yes,3.12,3.66,3.9
+777,Male,16,Khulna,Public,29,68,Secondary,12962,Yes,No,4.83,4.54,3.13
+778,Female,17,Rangpur,Public,23,60,Secondary,23851,Yes,No,4.23,4.28,3.95
+779,Female,18,Rangpur,Public,22,88,Higher Secondary,55747,Yes,No,3.39,3.95,4.38
+780,Male,18,Rangpur,Private,21,81,Graduate,15296,No,No,4.21,4.13,4.22
+781,Male,16,Sylhet,Private,23,75,Secondary,24745,No,Yes,4.35,3.95,4.08
+782,Male,18,Chattogram,Public,25,66,Secondary,15730,No,No,4.05,3.89,3.94
+783,Female,18,Sylhet,Private,18,73,Graduate,23921,No,Yes,4.44,3.75,3.59
+784,Female,16,Barisal,Private,22,88,Primary,42894,No,Yes,4.16,4.04,3.55
+785,Female,17,Barisal,Private,23,78,Primary,15602,No,Yes,4.9,3.88,4.0
+786,Male,18,Mymensingh,Private,19,78,Secondary,27575,Yes,Yes,3.11,4.53,3.32
+787,Male,18,Chattogram,Public,19,61,Secondary,29023,No,Yes,3.21,4.53,3.68
+788,Female,18,Khulna,Public,8,74,Primary,55349,Yes,Yes,3.35,4.25,3.65
+789,Female,15,Chattogram,Private,11,62,Higher Secondary,25997,Yes,Yes,4.38,4.67,4.17
+790,Male,16,Rajshahi,Public,17,70,Graduate,27750,No,No,4.29,4.76,3.13
+791,Female,15,Barisal,Private,7,89,Graduate,51979,No,Yes,4.78,4.37,4.66
+792,Female,16,Dhaka,Private,20,99,Higher Secondary,32837,No,No,4.47,4.43,4.12
+793,Male,17,Dhaka,Public,13,77,Higher Secondary,24997,No,No,4.02,3.92,4.34
+794,Female,17,Khulna,Public,12,61,Higher Secondary,49439,No,Yes,4.98,4.84,4.41
+795,Male,18,Rajshahi,Public,24,91,Higher Secondary,33067,No,Yes,3.53,3.54,3.58
+796,Male,16,Mymensingh,Private,17,67,Higher Secondary,55039,No,No,4.67,4.02,3.94
+797,Male,17,Sylhet,Public,21,81,Higher Secondary,30923,Yes,No,3.85,4.58,4.91
+798,Male,16,Rajshahi,Private,21,65,Graduate,18876,No,No,4.3,3.62,4.53
+799,Male,17,Dhaka,Public,21,71,Higher Secondary,12887,No,No,4.45,3.77,4.94
+800,Male,15,Dhaka,Public,5,99,Primary,52422,Yes,Yes,4.27,4.38,4.49
+801,Male,17,Mymensingh,Private,12,95,Higher Secondary,46854,No,Yes,3.28,4.34,3.35
+802,Female,15,Barisal,Private,23,74,Higher Secondary,46948,No,Yes,3.89,4.61,3.13
+803,Male,17,Rajshahi,Private,10,87,Graduate,12841,Yes,No,4.12,4.72,4.16
+804,Male,18,Rajshahi,Private,7,77,Graduate,38756,No,Yes,4.7,3.69,3.72
+805,Female,15,Dhaka,Private,9,61,Higher Secondary,16040,No,No,3.89,3.53,3.55
+806,Female,17,Sylhet,Private,17,72,Graduate,20304,No,Yes,4.84,4.53,4.61
+807,Female,18,Khulna,Private,19,74,Secondary,40341,No,No,3.88,3.95,3.73
+808,Male,15,Rangpur,Private,18,79,Graduate,14758,No,Yes,4.1,4.44,3.63
+809,Female,18,Khulna,Public,27,88,Graduate,27010,No,Yes,4.59,3.73,4.7
+810,Male,16,Rajshahi,Private,20,88,Graduate,41658,Yes,No,4.17,4.2,4.69
+811,Male,16,Khulna,Private,22,62,Graduate,59002,No,No,4.92,4.26,3.71
+812,Male,15,Dhaka,Public,26,78,Primary,47782,No,No,4.32,4.38,4.66
+813,Male,17,Dhaka,Private,26,62,Primary,11375,Yes,No,4.05,4.27,4.7
+814,Female,15,Mymensingh,Public,15,73,Primary,43949,Yes,No,3.05,4.24,3.85
+815,Female,18,Rajshahi,Public,7,99,Higher Secondary,32092,No,Yes,3.83,4.0,3.13
+816,Male,17,Mymensingh,Private,26,63,Higher Secondary,10490,Yes,No,3.6,3.61,3.0
+817,Male,16,Rajshahi,Public,14,70,Secondary,13729,No,Yes,4.5,3.63,4.05
+818,Male,17,Rangpur,Private,14,90,Primary,15974,No,Yes,3.42,4.15,3.69
+819,Female,16,Rangpur,Public,25,91,Higher Secondary,29680,Yes,Yes,3.41,4.03,4.99
+820,Male,17,Barisal,Public,20,86,Graduate,28324,No,Yes,3.38,4.27,4.54
+821,Male,17,Rajshahi,Public,16,89,Graduate,41334,No,Yes,3.25,3.96,4.52
+822,Female,17,Sylhet,Private,6,61,Primary,31398,Yes,No,3.62,4.53,4.91
+823,Female,18,Khulna,Private,13,68,Secondary,44650,Yes,No,4.77,4.8,4.78
+824,Male,18,Rajshahi,Public,28,87,Secondary,31292,Yes,Yes,4.55,3.95,3.64
+825,Female,15,Chattogram,Public,7,90,Graduate,45755,Yes,Yes,4.47,3.79,3.33
+826,Female,15,Barisal,Private,28,93,Secondary,48353,No,No,4.59,3.67,4.49
+827,Male,16,Chattogram,Private,29,74,Primary,13159,Yes,No,3.54,4.42,3.76
+828,Female,18,Dhaka,Public,19,84,Graduate,42626,Yes,Yes,4.77,4.17,3.95
+829,Male,16,Rangpur,Public,7,95,Higher Secondary,39351,Yes,No,3.27,3.78,4.26
+830,Female,15,Khulna,Private,23,67,Higher Secondary,47298,Yes,No,3.67,4.48,4.82
+831,Male,16,Rajshahi,Private,22,68,Secondary,27065,Yes,No,4.17,3.72,3.84
+832,Male,15,Chattogram,Private,12,96,Graduate,31638,No,Yes,3.21,4.33,4.57
+833,Male,18,Khulna,Private,21,98,Graduate,11073,Yes,No,4.46,4.29,3.54
+834,Female,17,Dhaka,Private,12,91,Higher Secondary,56511,No,Yes,3.77,4.6,4.4
+835,Male,18,Rangpur,Public,11,76,Graduate,28771,Yes,Yes,4.57,3.58,3.0
+836,Female,16,Sylhet,Private,11,94,Graduate,45461,Yes,Yes,3.99,4.83,4.74
+837,Male,16,Barisal,Public,7,96,Graduate,52330,Yes,Yes,3.36,4.55,3.06
+838,Male,18,Khulna,Private,5,78,Secondary,39320,Yes,Yes,4.47,3.82,4.43
+839,Female,18,Khulna,Public,8,88,Graduate,14340,Yes,No,3.5,3.78,3.09
+840,Male,15,Sylhet,Private,29,66,Primary,44924,Yes,Yes,3.98,4.15,3.53
+841,Male,16,Khulna,Private,9,87,Secondary,26184,Yes,Yes,3.15,4.73,3.99
+842,Female,16,Dhaka,Public,5,68,Graduate,50734,Yes,Yes,4.24,4.76,3.84
+843,Male,18,Dhaka,Public,19,87,Graduate,12580,No,No,4.33,4.28,3.38
+844,Male,17,Sylhet,Private,9,65,Primary,50025,Yes,No,3.76,4.79,3.67
+845,Male,16,Barisal,Private,17,88,Secondary,38967,No,No,4.91,3.51,4.46
+846,Male,17,Rajshahi,Private,12,76,Higher Secondary,12159,Yes,No,4.75,3.55,4.34
+847,Female,18,Chattogram,Private,12,75,Higher Secondary,58940,No,No,4.42,4.87,3.14
+848,Female,18,Rajshahi,Private,9,82,Secondary,23900,Yes,No,4.43,4.66,4.49
+849,Male,15,Khulna,Public,13,90,Graduate,21440,Yes,No,3.5,4.18,3.11
+850,Female,16,Chattogram,Public,5,62,Graduate,24678,Yes,Yes,4.31,4.63,4.09
+851,Male,17,Mymensingh,Private,8,80,Higher Secondary,57204,No,Yes,3.4,4.93,3.52
+852,Female,15,Sylhet,Public,7,85,Higher Secondary,22021,No,No,3.29,4.66,4.18
+853,Male,16,Sylhet,Public,6,95,Higher Secondary,16772,No,Yes,5.0,4.76,3.52
+854,Male,15,Barisal,Public,12,96,Primary,11627,No,Yes,4.24,4.64,4.97
+855,Male,18,Chattogram,Private,27,81,Higher Secondary,54432,Yes,No,3.86,3.75,3.62
+856,Male,16,Dhaka,Public,13,71,Primary,18219,Yes,Yes,3.58,4.75,3.48
+857,Male,15,Chattogram,Private,6,72,Secondary,33464,Yes,Yes,4.21,3.79,3.56
+858,Male,15,Khulna,Public,18,70,Graduate,40232,No,No,3.1,4.84,4.79
+859,Female,17,Dhaka,Private,18,75,Higher Secondary,52481,Yes,Yes,3.19,4.19,4.27
+860,Male,15,Rangpur,Public,8,67,Graduate,18488,No,No,3.07,4.52,4.46
+861,Female,16,Rangpur,Private,10,99,Graduate,44949,No,No,4.0,4.25,4.84
+862,Male,16,Mymensingh,Private,15,99,Higher Secondary,54362,No,Yes,4.2,3.64,4.82
+863,Female,17,Rangpur,Public,7,61,Higher Secondary,49932,No,Yes,3.12,3.94,4.48
+864,Female,16,Sylhet,Private,12,89,Secondary,28981,No,Yes,4.44,4.98,3.4
+865,Female,18,Chattogram,Private,7,89,Primary,10901,Yes,No,3.46,4.94,4.69
+866,Male,16,Rangpur,Private,18,71,Primary,32444,No,No,4.37,3.98,3.41
+867,Male,16,Rajshahi,Private,17,69,Graduate,52058,No,No,4.96,4.99,4.49
+868,Female,15,Barisal,Private,17,70,Higher Secondary,28061,Yes,Yes,4.38,4.77,4.37
+869,Male,15,Rajshahi,Private,6,74,Secondary,12881,No,Yes,4.77,4.42,4.52
+870,Female,16,Rangpur,Private,17,75,Secondary,39863,No,No,4.9,3.56,4.07
+871,Male,17,Mymensingh,Private,23,76,Secondary,55826,Yes,Yes,3.97,4.85,4.28
+872,Female,15,Barisal,Public,10,85,Secondary,15622,Yes,Yes,4.4,4.34,4.91
+873,Female,17,Khulna,Public,20,61,Secondary,11378,Yes,No,4.7,4.8,3.2
+874,Male,16,Rajshahi,Private,6,71,Primary,27632,No,No,3.71,4.75,3.62
+875,Female,16,Mymensingh,Private,12,85,Primary,38311,Yes,Yes,3.52,4.75,4.22
+876,Male,18,Chattogram,Public,21,82,Primary,15650,Yes,No,4.89,4.55,4.93
+877,Female,15,Chattogram,Public,27,77,Higher Secondary,55201,Yes,Yes,4.45,3.94,3.19
+878,Female,16,Rajshahi,Public,6,91,Graduate,52224,No,No,3.44,4.0,3.05
+879,Male,18,Rangpur,Private,14,97,Secondary,17036,Yes,No,3.9,3.96,3.11
+880,Male,15,Mymensingh,Public,20,62,Higher Secondary,49255,No,No,4.59,3.53,3.1
+881,Male,16,Chattogram,Private,10,97,Secondary,32499,No,Yes,4.09,4.37,4.82
+882,Female,16,Khulna,Private,6,62,Primary,47016,Yes,Yes,4.3,4.55,4.44
+883,Male,15,Dhaka,Public,6,89,Higher Secondary,14603,No,No,4.51,4.78,4.35
+884,Female,15,Rangpur,Private,17,60,Primary,37773,No,No,4.24,3.71,4.05
+885,Female,15,Mymensingh,Private,28,89,Secondary,29937,Yes,No,4.08,4.32,4.56
+886,Male,16,Khulna,Private,19,91,Secondary,22632,No,Yes,4.5,3.51,3.31
+887,Male,16,Mymensingh,Private,6,87,Graduate,40607,Yes,No,4.46,3.64,3.78
+888,Female,18,Barisal,Public,11,80,Secondary,36337,No,No,4.26,3.58,3.98
+889,Female,17,Khulna,Public,7,72,Primary,10220,No,No,3.72,4.59,3.22
+890,Male,15,Rangpur,Private,12,86,Secondary,56994,Yes,No,3.81,3.62,3.84
+891,Male,16,Barisal,Private,27,95,Graduate,14818,Yes,Yes,4.94,4.57,3.63
+892,Male,16,Rangpur,Public,18,66,Graduate,17349,No,Yes,3.22,3.87,3.07
+893,Male,15,Chattogram,Private,28,81,Primary,15618,No,No,3.54,4.82,3.27
+894,Male,17,Dhaka,Public,27,69,Higher Secondary,37464,Yes,Yes,3.98,4.72,4.53
+895,Female,15,Rangpur,Private,26,98,Secondary,52624,No,Yes,4.67,4.94,3.04
+896,Female,17,Rangpur,Private,11,74,Graduate,47344,No,Yes,3.33,4.83,4.87
+897,Female,16,Chattogram,Public,25,74,Secondary,28255,No,No,3.55,4.9,3.17
+898,Female,17,Sylhet,Public,11,63,Secondary,34299,No,Yes,3.13,4.79,4.6
+899,Male,18,Chattogram,Public,5,91,Higher Secondary,57975,Yes,Yes,4.41,4.54,4.8
+900,Male,16,Barisal,Public,21,82,Graduate,11462,Yes,Yes,3.48,3.76,4.88
+901,Male,18,Chattogram,Private,13,65,Secondary,25905,Yes,No,3.78,3.91,4.73
+902,Female,15,Chattogram,Public,25,83,Graduate,34920,Yes,No,3.89,3.82,3.58
+903,Female,15,Dhaka,Private,17,79,Primary,26252,Yes,Yes,4.78,4.41,3.67
+904,Male,15,Chattogram,Public,25,96,Primary,51004,Yes,Yes,3.82,4.26,3.85
+905,Male,17,Mymensingh,Public,23,79,Secondary,50581,No,No,3.29,4.8,3.28
+906,Female,16,Rangpur,Private,25,71,Graduate,44836,Yes,No,4.05,4.93,3.04
+907,Female,15,Mymensingh,Public,23,92,Secondary,15753,No,Yes,4.93,4.11,4.74
+908,Male,15,Dhaka,Public,29,87,Graduate,50005,No,Yes,4.22,4.26,4.11
+909,Male,16,Rajshahi,Public,29,67,Graduate,24175,No,No,4.97,4.96,4.22
+910,Female,15,Sylhet,Public,26,60,Higher Secondary,16191,Yes,No,4.68,3.91,4.85
+911,Male,18,Mymensingh,Private,21,96,Higher Secondary,27898,No,Yes,3.07,4.69,4.33
+912,Male,16,Dhaka,Private,27,81,Higher Secondary,28982,Yes,No,4.32,3.84,4.38
+913,Male,16,Barisal,Public,27,65,Secondary,24622,No,Yes,3.57,4.52,4.57
+914,Female,16,Rajshahi,Public,14,80,Higher Secondary,11001,No,Yes,4.12,3.88,3.23
+915,Female,18,Dhaka,Public,14,91,Higher Secondary,57645,Yes,Yes,3.56,4.83,3.72
+916,Female,16,Dhaka,Private,8,94,Primary,53000,No,No,3.7,4.34,4.94
+917,Female,18,Sylhet,Private,12,74,Graduate,33283,No,Yes,4.85,3.78,4.85
+918,Female,16,Rangpur,Private,26,64,Graduate,31435,No,Yes,3.41,3.84,4.77
+919,Female,17,Mymensingh,Private,24,65,Higher Secondary,37223,No,No,4.75,4.24,3.9
+920,Female,15,Barisal,Public,24,84,Graduate,47244,Yes,No,3.06,4.94,4.71
+921,Male,17,Khulna,Public,22,99,Primary,40024,No,Yes,3.18,4.65,3.1
+922,Male,15,Mymensingh,Public,18,88,Primary,59630,No,Yes,4.71,4.23,3.3
+923,Male,18,Khulna,Private,22,66,Higher Secondary,40734,Yes,No,4.26,4.01,3.83
+924,Male,17,Dhaka,Public,18,99,Primary,10515,No,No,4.49,4.32,3.97
+925,Male,16,Chattogram,Private,24,72,Graduate,55246,No,No,3.42,4.62,3.53
+926,Male,15,Barisal,Private,25,97,Secondary,11191,No,Yes,4.07,4.68,3.71
+927,Male,15,Rajshahi,Public,28,77,Graduate,42264,No,Yes,4.47,3.99,3.33
+928,Female,17,Chattogram,Public,19,61,Secondary,53628,Yes,Yes,4.25,4.58,3.98
+929,Female,18,Chattogram,Public,26,67,Higher Secondary,56216,No,No,3.94,4.49,4.59
+930,Male,17,Mymensingh,Private,8,70,Secondary,16297,Yes,Yes,4.92,4.94,4.32
+931,Male,18,Barisal,Private,17,92,Primary,37856,No,No,4.35,4.9,3.22
+932,Female,18,Rangpur,Public,27,97,Graduate,59423,No,Yes,4.82,4.68,3.98
+933,Male,15,Dhaka,Public,12,86,Secondary,18334,No,No,4.46,4.59,4.4
+934,Male,17,Dhaka,Private,22,79,Graduate,34162,Yes,Yes,4.47,3.91,4.06
+935,Female,17,Dhaka,Public,16,71,Higher Secondary,16008,No,Yes,3.16,4.77,3.78
+936,Male,18,Dhaka,Private,27,90,Higher Secondary,17987,No,No,3.72,4.14,4.24
+937,Female,17,Mymensingh,Private,18,86,Primary,40966,Yes,No,4.72,3.91,4.94
+938,Male,16,Khulna,Public,6,91,Higher Secondary,13332,Yes,Yes,3.47,4.08,3.19
+939,Female,16,Dhaka,Public,22,69,Secondary,10787,Yes,No,3.23,4.75,3.78
+940,Female,17,Khulna,Public,28,62,Higher Secondary,48990,Yes,No,3.65,3.72,3.81
+941,Female,17,Khulna,Public,6,86,Primary,19873,No,Yes,3.44,4.18,4.15
+942,Male,18,Rangpur,Private,15,94,Graduate,27006,No,No,4.85,4.24,3.3
+943,Female,16,Dhaka,Private,13,90,Graduate,30225,No,Yes,4.74,3.55,3.35
+944,Male,16,Sylhet,Private,16,74,Higher Secondary,46444,No,Yes,4.0,3.79,3.57
+945,Male,15,Rajshahi,Public,21,75,Secondary,45340,Yes,No,3.12,4.74,4.91
+946,Male,18,Chattogram,Private,19,72,Primary,49683,No,No,4.43,4.75,4.47
+947,Male,15,Khulna,Public,29,94,Secondary,15033,No,Yes,4.25,3.94,4.32
+948,Female,16,Barisal,Public,21,70,Primary,17788,No,Yes,4.94,4.81,4.63
+949,Female,18,Barisal,Public,22,80,Higher Secondary,25689,No,Yes,4.12,4.66,3.26
+950,Male,17,Rajshahi,Public,26,70,Primary,54220,Yes,Yes,3.67,4.13,4.72
+951,Male,18,Barisal,Public,10,89,Primary,31598,No,Yes,4.04,4.62,4.19
+952,Female,17,Sylhet,Public,21,94,Higher Secondary,47480,No,Yes,4.96,4.94,3.67
+953,Male,17,Barisal,Private,27,81,Secondary,39703,No,No,4.39,4.19,4.63
+954,Female,18,Chattogram,Public,28,97,Higher Secondary,10066,Yes,No,4.34,3.86,4.61
+955,Male,17,Chattogram,Private,22,90,Primary,58623,Yes,No,3.48,4.91,4.69
+956,Male,15,Khulna,Private,12,73,Higher Secondary,55246,No,Yes,4.49,4.41,3.23
+957,Female,16,Dhaka,Public,13,83,Primary,17533,No,No,4.5,3.66,4.94
+958,Male,17,Rangpur,Public,10,91,Higher Secondary,25103,No,Yes,3.63,4.36,4.92
+959,Female,15,Sylhet,Public,9,95,Graduate,14616,Yes,Yes,3.97,4.25,3.71
+960,Male,17,Khulna,Private,16,91,Graduate,56045,No,No,3.59,4.78,3.13
+961,Male,16,Sylhet,Public,29,74,Higher Secondary,48498,No,Yes,3.52,4.3,3.33
+962,Male,15,Dhaka,Private,15,94,Secondary,53492,No,Yes,3.05,3.88,4.99
+963,Female,16,Mymensingh,Public,29,62,Primary,21772,Yes,Yes,3.57,4.51,4.13
+964,Male,16,Barisal,Public,5,75,Graduate,33849,No,Yes,4.11,4.31,3.71
+965,Male,15,Barisal,Private,15,64,Secondary,59036,No,Yes,3.0,3.85,3.58
+966,Male,15,Rangpur,Private,23,80,Primary,22940,Yes,Yes,3.57,4.36,3.51
+967,Male,15,Dhaka,Public,13,69,Graduate,26932,Yes,No,4.76,4.73,4.33
+968,Female,18,Khulna,Private,6,78,Graduate,39769,No,Yes,4.19,3.54,3.84
+969,Female,15,Rangpur,Private,16,84,Higher Secondary,34648,Yes,Yes,4.22,4.45,4.93
+970,Male,15,Dhaka,Private,8,63,Primary,57411,No,Yes,3.81,4.02,4.37
+971,Female,15,Rajshahi,Private,8,88,Secondary,42966,Yes,Yes,4.35,3.94,4.58
+972,Male,15,Chattogram,Private,22,78,Secondary,37777,Yes,No,3.38,4.09,3.59
+973,Male,17,Rangpur,Public,19,61,Secondary,42567,No,No,4.64,4.01,3.16
+974,Male,18,Rangpur,Public,23,69,Primary,59723,No,Yes,3.23,4.75,3.98
+975,Female,16,Khulna,Private,17,84,Secondary,27174,No,Yes,4.31,3.91,3.63
+976,Female,15,Sylhet,Public,23,79,Secondary,52598,Yes,Yes,3.68,4.6,3.4
+977,Female,17,Rajshahi,Public,21,78,Secondary,23798,No,No,4.5,3.64,4.91
+978,Female,17,Khulna,Private,10,82,Higher Secondary,27558,No,No,4.1,4.93,3.89
+979,Female,17,Dhaka,Public,20,83,Higher Secondary,54237,No,No,3.9,4.43,3.35
+980,Female,16,Dhaka,Private,28,70,Primary,10178,No,No,3.34,4.56,3.4
+981,Female,15,Dhaka,Private,16,93,Primary,30470,No,Yes,4.27,3.95,3.56
+982,Female,18,Mymensingh,Public,23,87,Secondary,27118,Yes,No,4.95,4.12,5.0
+983,Female,18,Dhaka,Private,9,64,Higher Secondary,32616,No,No,4.65,3.84,3.54
+984,Male,17,Sylhet,Private,21,64,Graduate,10798,No,Yes,3.12,4.9,3.66
+985,Female,16,Rajshahi,Private,27,80,Graduate,17601,Yes,Yes,3.75,4.23,4.32
+986,Female,16,Barisal,Private,5,71,Secondary,35363,No,No,4.85,4.45,3.59
+987,Female,16,Chattogram,Private,29,63,Secondary,12795,No,No,4.01,4.6,3.43
+988,Female,18,Sylhet,Public,28,79,Higher Secondary,41926,No,No,4.32,4.06,3.32
+989,Female,17,Sylhet,Public,27,97,Higher Secondary,55264,No,No,4.83,4.58,3.63
+990,Female,15,Mymensingh,Private,14,84,Higher Secondary,47356,No,Yes,4.75,4.51,3.21
+991,Female,18,Barisal,Private,19,73,Primary,17297,Yes,Yes,4.0,4.56,3.04
+992,Female,17,Barisal,Public,27,70,Primary,13084,Yes,No,3.88,4.23,4.61
+993,Female,17,Chattogram,Private,25,91,Secondary,40329,Yes,No,3.68,4.07,3.28
+994,Female,15,Chattogram,Public,25,70,Primary,21110,No,No,4.44,3.83,4.55
+995,Female,15,Barisal,Private,15,77,Higher Secondary,10731,Yes,No,3.57,4.74,4.6
+996,Male,15,Dhaka,Private,17,86,Higher Secondary,11129,No,No,3.5,4.41,4.08
+997,Male,16,Sylhet,Private,9,77,Primary,38022,No,Yes,3.71,4.17,3.62
+998,Female,15,Khulna,Private,5,82,Graduate,11605,No,Yes,3.35,4.92,3.29
+999,Female,17,Chattogram,Private,28,70,Secondary,21970,Yes,Yes,4.39,3.57,4.47
+1000,Male,15,Mymensingh,Private,16,80,Graduate,53705,Yes,No,4.23,4.78,4.2
